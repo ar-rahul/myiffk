@@ -1,0 +1,35 @@
+[debug] [2025-12-09T11:17:34.255Z] ----------------------------------------------------------------------
+[debug] [2025-12-09T11:17:34.267Z] Command:       /home/rahul/.nvm/versions/node/v22.12.0/bin/node /home/rahul/.nvm/versions/node/v22.12.0/bin/firebase init
+[debug] [2025-12-09T11:17:34.269Z] CLI Version:   14.27.0
+[debug] [2025-12-09T11:17:34.269Z] Platform:      linux
+[debug] [2025-12-09T11:17:34.269Z] Node Version:  v22.12.0
+[debug] [2025-12-09T11:17:34.271Z] Time:          Tue Dec 09 2025 16:47:34 GMT+0530 (India Standard Time)
+[debug] [2025-12-09T11:17:34.271Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-12-09T11:17:34.283Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/rahul/Documents/Website Development/iffkmovies
+
+[debug] [2025-12-09T11:17:35.182Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2025-12-09T11:17:35.184Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
+[debug] [2025-12-09T11:18:11.581Z] ExitPromptError: User force closed the prompt with SIGINT
+    at Interface.sigint (/home/rahul/.nvm/versions/node/v22.12.0/lib/node_modules/firebase-tools/node_modules/@inquirer/core/dist/commonjs/lib/create-prompt.js:101:37)
+    at Interface.emit (node:events:524:28)
+    at Interface.emit (node:domain:489:12)
+    at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1124:18)
+    at ReadStream.onkeypress (node:internal/readline/interface:263:20)
+    at ReadStream.emit (node:events:536:35)
+    at ReadStream.emit (node:domain:489:12)
+    at emitKeys (node:internal/readline/utils:370:14)
+    at emitKeys.next (<anonymous>)
+    at ReadStream.onData (node:internal/readline/emitKeypressEvents:64:36)
+[error] 
+[error] Error: An unexpected error has occurred.
