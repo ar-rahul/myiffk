@@ -2,6 +2,9 @@ import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import AuthProvider from "./AuthProvider";
 
+export const dynamic = "force-client";
+
+
 
 
 const geistSans = Geist({
