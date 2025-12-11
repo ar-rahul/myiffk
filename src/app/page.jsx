@@ -88,7 +88,9 @@ const filteredMovies = searchText.trim()
   const showEntries = showsSnap.docs.map((d) => ({ id: d.id, ...d.data() }));
 
   const movieDocs = await Promise.all(
-    showEntries.map(async (show) => {
+  showEntries
+    .filter(show => show.movieId) // ignore empty slots
+    .map(async (show) => {
       const movieSnap = await getDoc(doc(db, "movies", show.movieId));
       return {
         id: show.movieId,
@@ -97,7 +99,7 @@ const filteredMovies = searchText.trim()
         time: show.time,
       };
     })
-  );
+);
 
   setMovies(movieDocs);
   setLoadingMovies(false);

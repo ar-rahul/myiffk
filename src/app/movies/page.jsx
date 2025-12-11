@@ -5,10 +5,27 @@ import { db } from "@/firebaseConfig";
 import {
   collection,
   getDocs,
+  query, where,
 } from "firebase/firestore";
 import { useSearchParams } from "next/navigation";
 import Link from "next/link";
 import Navbar from "../components/Navbar";
+
+
+export const fetchShowsForMovie = async (movieId) => {
+  const q = query(
+    collection(db, "shows"),
+    where("movieId", "==", movieId)
+  );
+
+  const snap = await getDocs(q);
+
+  return snap.docs.map((doc) => ({
+    id: doc.id,
+    ...doc.data(),
+  }));
+};
+
 
 export default function MoviesPage() {
   const [allMovies, setAllMovies] = useState([]);

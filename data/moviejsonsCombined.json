@@ -1,0 +1,3626 @@
+[
+  {
+    "title": "Mariana's Room / La Chambre de Mariana",
+    "originalTitle": "La Chambre de Mariana",
+    "countries": "Belgium, France, Hungary, Israel",
+    "languages": "French, Russian, Ukrainian",
+    "runtime": 130,
+    "year": 2025,
+    "director": "Emmanuel Finkiel",
+    "category": ""
+  },
+  {
+    "title": "The Sun Rises on Us All",
+    "countries": "China",
+    "languages": "Mandarin",
+    "runtime": 131,
+    "year": 2025,
+    "director": "Cai Shangjun",
+    "category": ""
+  },
+  {
+    "title": "Fragments from the East / Doğudan Fragmanlar",
+    "countries": "Turkey",
+    "languages": "Turkish",
+    "runtime": 131,
+    "year": 2025,
+    "director": "Erkan Yazıcı",
+    "category": ""
+  },
+  {
+    "title": "Untamable / Indomptables",
+    "countries": "France",
+    "languages": "French",
+    "runtime": 81,
+    "year": 2025,
+    "director": "Thomas Ngijol",
+    "category": ""
+  },
+  {
+    "title": "Alexandria Again and Forever / Iskandria Kaman wa Kaman",
+    "countries": "Egypt, France",
+    "languages": "Arabic",
+    "runtime": 106,
+    "year": 1989,
+    "director": "Youssef Chahine",
+    "category": ""
+  },
+  {
+    "title": "The Blue Trail / O Último Azul",
+    "countries": "Brazil, Mexico, Chile, Netherlands",
+    "languages": "Portuguese",
+    "runtime": 87,
+    "year": 2025,
+    "director": "Gabriel Mascaro",
+    "category": ""
+  },
+  {
+    "title": "The Virgin of the Quarry Lake / La virgen de la tosquera",
+    "countries": "Argentina, Mexico, Spain",
+    "languages": "Spanish",
+    "runtime": 93,
+    "year": 2025,
+    "director": "Laura Casabé",
+    "category": ""
+  },
+  {
+    "title": "Nino",
+    "countries": "France",
+    "languages": "French",
+    "runtime": 97,
+    "year": 2024,
+    "director": "Pauline Loquès",
+    "category": ""
+  },
+  {
+    "title": "Beef / Ruido",
+    "countries": "Spain",
+    "languages": "Spanish",
+    "runtime": 90,
+    "year": 2025,
+    "director": "Ingride Santos",
+    "category": ""
+  },
+  {
+    "title": "Chopin, a Sonata in Paris / Chopin, Chopin!",
+    "countries": "Poland",
+    "languages": "French, Polish",
+    "runtime": 133,
+    "year": 2025,
+    "director": "Michał Kwieciński",
+    "category": ""
+  },
+  {
+    "title": "Opening Film – Palestine 36",
+    "countries": "Palestine, United Kingdom, France, Denmark, Qatar, Saudi Arabia, Jordan",
+    "languages": "Arabic, English",
+    "runtime": 120,
+    "year": 2025,
+    "director": "Annemarie Jacir",
+    "category": ""
+  }
+]
+
+
+[
+  {
+    "title": "Don't Tell Mother / Ammang Haelbeda",
+    "countries": "India, Australia",
+    "languages": "Kannada",
+    "runtime": 88,
+    "year": 2025,
+    "director": "Anoop Lokkur",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Black Rabbit, White Rabbit",
+    "countries": "Tajikistan, United Arab Emirates",
+    "languages": "Tajik, Russian",
+    "runtime": 139,
+    "year": 2025,
+    "director": "Shahram Mokri",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Full Plate",
+    "countries": "India",
+    "languages": "Hindi",
+    "runtime": 109,
+    "year": 2025,
+    "director": "Tannishtha Chatterjee",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "El Conde",
+    "countries": "Chile",
+    "languages": "English, French, Spanish",
+    "runtime": 111,
+    "year": 2023,
+    "director": "Pablo Larraín",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Die My Love",
+    "countries": "United States",
+    "languages": "English",
+    "runtime": 119,
+    "year": 2025,
+    "director": "Lynne Ramsay",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Whispers in the Dabbas / Nyanyi Sunyi Dalam Rantang",
+    "countries": "Indonesia",
+    "languages": "Indonesian",
+    "runtime": 76,
+    "year": 2025,
+    "director": "Garin Nugroho",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Magellan / Magalhães",
+    "countries": "Portugal, Spain, Philippines, France, Taiwan",
+    "languages": "Portuguese, Spanish, Cebuano, French",
+    "runtime": 160,
+    "year": 2025,
+    "director": "Lav Diaz",
+    "originalTitle": "Magalhães",
+    "category": ""
+  },
+  {
+    "title": "Celebration of Death / Chavu Kalyanam",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 72,
+    "year": 2025,
+    "director": "Vishnu B Beena",
+    "originalTitle": "Chavu Kalyanam",
+    "category": ""
+  },
+  {
+    "title": "Secret of a Mountain Serpent",
+    "countries": "India, Italy, Sri Lanka",
+    "languages": "Hindi",
+    "runtime": 108,
+    "year": 2025,
+    "director": "Nidhi Saxena",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Nirmalyam",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 134,
+    "year": 1973,
+    "director": "M. T. Vasudevan Nair",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Days of Santiago / Días de Santiago",
+    "countries": "Peru",
+    "languages": "Spanish",
+    "runtime": 83,
+    "year": 2004,
+    "director": "Josué Méndez",
+    "originalTitle": "Días de Santiago",
+    "category": ""
+  },
+  {
+    "title": "Black Tea",
+    "countries": "France, Mauritania, Luxembourg, Taiwan, Ivory Coast",
+    "languages": "Mandarin, French, English, Portuguese",
+    "runtime": 111,
+    "year": 2024,
+    "director": "Abderrahmane Sissako",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "In Conversation with Mohammad Rasoulouf",
+    "countries": "",
+    "languages": "",
+    "runtime": null,
+    "year": null,
+    "director": "",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Glorious Ashes / Tro tàn rực rỡ",
+    "countries": "Vietnam, Singapore, France",
+    "languages": "Vietnamese",
+    "runtime": 117,
+    "year": 2022,
+    "director": "Bùi Thạc Chuyên",
+    "originalTitle": "Tro tàn rực rỡ",
+    "category": ""
+  },
+  {
+    "title": "8½ / Otto e mezzo",
+    "countries": "Italy, France",
+    "languages": "Italian",
+    "runtime": 138,
+    "year": 1963,
+    "director": "Federico Fellini",
+    "originalTitle": "Otto e mezzo",
+    "category": ""
+  },
+  {
+    "title": "Two Seasons, Two Strangers / Tabi to Hibi",
+    "countries": "Japan",
+    "languages": "Japanese, Korean",
+    "runtime": 89,
+    "year": 2025,
+    "director": "Sho Miyake",
+    "originalTitle": "Tabi to Hibi",
+    "category": ""
+  },
+  {
+    "title": "Songs of Forgotten Trees",
+    "countries": "India",
+    "languages": "Hindi",
+    "runtime": 78,
+    "year": 2025,
+    "director": "Anuparna Roy",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Desire / Moham",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 111,
+    "year": 2025,
+    "director": "Fazil Razak",
+    "originalTitle": "Moham",
+    "category": ""
+  },
+  {
+    "title": "Ambrosia",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 82,
+    "year": 2025,
+    "director": "Adhithya Baby",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Father Mother Sister Brother",
+    "countries": "USA, Ireland, France, Italy, Japan",
+    "languages": "English",
+    "runtime": 110,
+    "year": 2025,
+    "director": "Jim Jarmusch",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Hiedra / The Ivy",
+    "countries": "Ecuador, Mexico, France, Spain",
+    "languages": "Spanish",
+    "runtime": 98,
+    "year": 2025,
+    "director": "Ana Cristina Barragán",
+    "originalTitle": "Hiedra",
+    "category": ""
+  },
+  {
+    "title": "If on a Winter's Night / Khidki Gaav",
+    "countries": "India",
+    "languages": "Malayalam, Hindi",
+    "runtime": 99,
+    "year": 2025,
+    "director": "Sanju Surendran",
+    "originalTitle": "Khidki Gaav",
+    "category": ""
+  },
+  {
+    "title": "Before The Body / Antes del cuerpo",
+    "countries": "Argentina",
+    "languages": "Spanish",
+    "runtime": 84,
+    "year": 2025,
+    "director": "Carina Piazza, Lucía Bracelis",
+    "originalTitle": "Antes del cuerpo",
+    "category": ""
+  },
+  {
+    "title": "Papa Buka",
+    "countries": "Papua New Guinea, India",
+    "languages": "Tok Pisin, Hindi, English, Bengali",
+    "runtime": 100,
+    "year": 2025,
+    "director": "Dr. Biju",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Franz",
+    "countries": "Germany, Czech Republic",
+    "languages": "German",
+    "runtime": 127,
+    "year": 2025,
+    "director": "Agnieszka Holland",
+    "originalTitle": "",
+    "category": ""
+  }
+]
+
+[
+  {
+    "title": "Cuerpo Celeste",
+    "countries": "Chile, Italy",
+    "languages": "Spanish",
+    "runtime": 97,
+    "year": 2025,
+    "director": "Nayra Ilic García",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Mirage / Morichika",
+    "countries": "India",
+    "languages": "Bengali",
+    "runtime": 133,
+    "year": 2025,
+    "director": "Ishaan Ghose",
+    "originalTitle": "Morichika",
+    "category": ""
+  },
+  {
+    "title": "Cinema Jazireh",
+    "countries": "Türkiye, Iran, Afghanistan",
+    "languages": "Dari, Persian, Afghan Persian",
+    "runtime": 124,
+    "year": 2025,
+    "director": "Gözde Kural",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "All The Living",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 91,
+    "year": 2025,
+    "director": "Sherry Govindan",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "The Mysterious Gaze of the Flamingo / La mirada misteriosa del flamenco",
+    "countries": "Chile, France, Belgium, Spain, Germany",
+    "languages": "Spanish",
+    "runtime": 104,
+    "year": 2025,
+    "director": "Diego Céspedes",
+    "originalTitle": "La mirada misteriosa del flamenco",
+    "category": ""
+  },
+  {
+    "title": "The Little Sister / La Petite Dernière",
+    "countries": "France, Germany",
+    "languages": "French",
+    "runtime": 106,
+    "year": 2025,
+    "director": "Hafsia Herzi",
+    "originalTitle": "La Petite Dernière",
+    "category": ""
+  },
+  {
+    "title": "Stolen Skies / Anyarude Aakaashangal",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 98,
+    "year": 2025,
+    "director": "Sreekumar K",
+    "originalTitle": "Anyarude Aakaashangal",
+    "category": ""
+  },
+  {
+    "title": "Naseem",
+    "countries": "India",
+    "languages": "Hindi",
+    "runtime": 89,
+    "year": 1995,
+    "director": "Saeed Akhtar Mirza",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "The Sea",
+    "countries": "Israel",
+    "languages": "Arabic, Hebrew",
+    "runtime": 93,
+    "year": 2025,
+    "director": "Shai Carmeli-Pollak",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Riverstone",
+    "countries": "Sri Lanka",
+    "languages": "Sinhala",
+    "runtime": 119,
+    "year": 2025,
+    "director": "Lalith Rathnayake",
+    "originalTitle": "",
+    "category": ""
+  },
+
+  {
+    "title": "Girl / Nuhái",
+    "countries": "Taiwan, China",
+    "languages": "Mandarin",
+    "runtime": 125,
+    "year": 2025,
+    "director": "Shu Qi",
+    "originalTitle": "Nuhái",
+    "category": ""
+  },
+  {
+    "title": "Timbuktu",
+    "countries": "Mauritania, France",
+    "languages": "Hassaniya Arabic, French, English, Tamasheq, Bambara",
+    "runtime": 96,
+    "year": 2014,
+    "director": "Abderrahmane Sissako",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Masterclass by Pablo Larrain",
+    "countries": "",
+    "languages": "",
+    "runtime": null,
+    "year": null,
+    "director": "",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Vanaprastham",
+    "countries": "India, France, Germany",
+    "languages": "Malayalam",
+    "runtime": 119,
+    "year": 1999,
+    "director": "Shaji N. Karun",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Blind Chance / Przypadek",
+    "countries": "Poland",
+    "languages": "Polish",
+    "runtime": 117,
+    "year": 1987,
+    "director": "Krzysztof Kieślowski",
+    "originalTitle": "Przypadek",
+    "category": ""
+  },
+
+  {
+    "title": "Flames / Laptein",
+    "countries": "India",
+    "languages": "Hindi",
+    "runtime": 86,
+    "year": 2025,
+    "director": "Ravi Shankar Kaushik",
+    "originalTitle": "Laptein",
+    "category": ""
+  },
+  {
+    "title": "Silent Friend / Stille Freundin",
+    "countries": "Germany, France, Hungary, China",
+    "languages": "German, Hungarian, French",
+    "runtime": 145,
+    "year": 2025,
+    "director": "Ildikó Enyedi",
+    "originalTitle": "Stille Freundin",
+    "category": ""
+  },
+  {
+    "title": "Shadowbox / Baksho Bondi",
+    "countries": "India, France",
+    "languages": "Bengali",
+    "runtime": 94,
+    "year": 2025,
+    "director": "Tanushree Das, Saumyananda Sahi",
+    "originalTitle": "Baksho Bondi",
+    "category": ""
+  },
+  {
+    "title": "The Remnant / Sheshippu",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 84,
+    "year": 2025,
+    "director": "Sreejith S Kumar, Gritto Vincent",
+    "originalTitle": "Sheshippu",
+    "category": ""
+  },
+  {
+    "title": "White Snail",
+    "countries": "Austria, Germany",
+    "languages": "Russian, Belarusian, English, Mandarin, Chinese",
+    "runtime": 115,
+    "year": 2025,
+    "director": "Elsa Kremser, Levin Peter",
+    "originalTitle": "",
+    "category": ""
+  },
+
+  {
+    "title": "Yen and Ai-Lee / Xiao Yan Yu Wu Ai-Lee",
+    "countries": "Taiwan",
+    "languages": "Mandarin, Chinese, Hakka Chinese",
+    "runtime": 107,
+    "year": 2024,
+    "director": "Tom Shu-yu Lin",
+    "originalTitle": "Xiao Yan Yu Wu Ai-Lee",
+    "category": ""
+  },
+  {
+    "title": "Omaha",
+    "countries": "USA",
+    "languages": "English",
+    "runtime": 83,
+    "year": 2025,
+    "director": "Cole Webley",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "The Settlement",
+    "countries": "Egypt, France, Germany, Saudi Arabia, Qatar",
+    "languages": "Arabic",
+    "runtime": 93,
+    "year": 2025,
+    "director": "Mohamed Rashad",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Kontinental 25",
+    "countries": "Romania, Brazil, Switzerland, UK, Luxembourg",
+    "languages": "Romanian, Hungarian, German",
+    "runtime": 109,
+    "year": 2025,
+    "director": "Radu Jude",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "A Useful Ghost / Pee Chai Dai Ka",
+    "countries": "Thailand, France, Germany, Singapore",
+    "languages": "Thai",
+    "runtime": 130,
+    "year": 2025,
+    "director": "Ratchapoom Boonbunchachoke",
+    "originalTitle": "Pee Chai Dai Ka",
+    "category": ""
+  },
+
+  {
+    "title": "Sentimental Value / Affeksjonsverdi",
+    "countries": "Norway, France, Germany, Denmark, Sweden, UK",
+    "languages": "Norwegian, English",
+    "runtime": 133,
+    "year": 2025,
+    "director": "Joachim Trier",
+    "originalTitle": "Affeksjonsverdi",
+    "category": ""
+  },
+  {
+    "title": "It Was Just an Accident",
+    "countries": "Iran",
+    "languages": "Persian",
+    "runtime": 104,
+    "year": 2025,
+    "director": "Jafar Panahi",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Jaws",
+    "countries": "USA",
+    "languages": "English",
+    "runtime": 124,
+    "year": 1975,
+    "director": "Steven Spielberg",
+    "originalTitle": "",
+    "category": ""
+  },
+
+  {
+    "title": "Six Days in Spring / Six jours, ce printemps-là",
+    "countries": "Belgium, France, Luxembourg",
+    "languages": "French",
+    "runtime": 94,
+    "year": 2025,
+    "director": "Joachim Lafosse",
+    "originalTitle": "Six jours, ce printemps-là",
+    "category": ""
+  },
+  {
+    "title": "The Things You Kill / Öldürdüğün Şeyler",
+    "countries": "Turkey, France, Poland, Canada",
+    "languages": "Turkish",
+    "runtime": 113,
+    "year": 2025,
+    "director": "Alireza Khatami",
+    "originalTitle": "Öldürdüğün Şeyler",
+    "category": ""
+  },
+  {
+    "title": "All That’s Left of You / اللي باقي منك",
+    "countries": "Germany, Cyprus, Palestine, Jordan, Greece, Qatar, Saudi Arabia",
+    "languages": "Arabic, English",
+    "runtime": 145,
+    "year": 2025,
+    "director": "Cherien Dabis",
+    "originalTitle": "اللي باقي منك",
+    "category": ""
+  },
+  {
+    "title": "Our Father / Oče naš",
+    "countries": "Serbia, Italy, Croatia, North Macedonia, Montenegro, Bosnia and Herzegovina",
+    "languages": "Serbian",
+    "runtime": 89,
+    "year": 2025,
+    "director": "Goran Stanković",
+    "originalTitle": "Oče naš",
+    "category": ""
+  },
+  {
+    "title": "Resurrection",
+    "countries": "China, France",
+    "languages": "Mandarin",
+    "runtime": 156,
+    "year": 2025,
+    "director": "Bi Gan",
+    "originalTitle": "",
+    "category": ""
+  },
+
+  {
+    "title": "Birdman Tale / Aku Ingin Menciummu Sekali Saja",
+    "countries": "Indonesia",
+    "languages": "Indonesian",
+    "runtime": 90,
+    "year": 2002,
+    "director": "Garin Nugroho",
+    "originalTitle": "Aku Ingin Menciummu Sekali Saja",
+    "category": ""
+  },
+  {
+    "title": "Alpha",
+    "countries": "France",
+    "languages": "French",
+    "runtime": 128,
+    "year": 2025,
+    "director": "Julia Ducournau",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Reedland / Rietland",
+    "countries": "Netherlands, Belgium",
+    "languages": "Dutch",
+    "runtime": 111,
+    "year": 2025,
+    "director": "Sven Bresser",
+    "originalTitle": "Rietland",
+    "category": ""
+  },
+  {
+    "title": "Aguirre, Wrath of God / Aguirre, der Zorn Gottes",
+    "countries": "West Germany, Mexico, Peru",
+    "languages": "German",
+    "runtime": 94,
+    "year": 1972,
+    "director": "Werner Herzog",
+    "originalTitle": "Aguirre, der Zorn Gottes",
+    "category": ""
+  },
+  {
+    "title": "What Does That Nature Say to You",
+    "countries": "South Korea",
+    "languages": "Korean",
+    "runtime": 109,
+    "year": 2025,
+    "director": "Hong Sang-soo",
+    "originalTitle": "",
+    "category": ""
+  },
+
+  {
+    "title": "The Tree House / Nhà Cây",
+    "countries": "Vietnam",
+    "languages": "Vietnamese",
+    "runtime": 84,
+    "year": 2019,
+    "director": "Trương Minh Quý",
+    "originalTitle": "Nhà Cây",
+    "category": ""
+  },
+  {
+    "title": "The Hour of the Furnaces (Part 1) / La hora de los hornos",
+    "countries": "Argentina",
+    "languages": "Spanish",
+    "runtime": 85,
+    "year": 1968,
+    "director": "Fernando Solanas",
+    "originalTitle": "La hora de los hornos",
+    "category": ""
+  },
+  {
+    "title": "Moonlight Shadow",
+    "countries": "Japan",
+    "languages": "Japanese",
+    "runtime": 92,
+    "year": 2021,
+    "director": "Edmund Yeo",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Alexandria Again and Forever / Iskandria Kaman wa Kaman",
+    "countries": "Egypt, France",
+    "languages": "Arabic",
+    "runtime": 106,
+    "year": 1989,
+    "director": "Youssef Chahine",
+    "originalTitle": "Iskandria Kaman wa Kaman",
+    "category": ""
+  },
+
+  {
+    "title": "The Coffin / Shavapetti",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 102,
+    "year": 2025,
+    "director": "Rinoshun K",
+    "originalTitle": "Shavapetti",
+    "category": ""
+  },
+  {
+    "title": "Hearth And Home / Alaav",
+    "countries": "India",
+    "languages": "Hindi",
+    "runtime": 121,
+    "year": 2024,
+    "director": "Prabhash Chandra",
+    "originalTitle": "Alaav",
+    "category": ""
+  },
+  {
+    "title": "Blue Velvet",
+    "countries": "United States",
+    "languages": "English, German",
+    "runtime": 120,
+    "year": 1986,
+    "director": "David Lynch",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Shape of Momo",
+    "countries": "India",
+    "languages": "Nepali",
+    "runtime": 114,
+    "year": 2025,
+    "director": "Tribeny Rai",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Cotton Queen",
+    "countries": "Sudan",
+    "languages": "Arabic dialects",
+    "runtime": 94,
+    "year": 2025,
+    "director": "Suzannah Mirghani",
+    "originalTitle": "",
+    "category": ""
+  },
+
+  {
+    "title": "Annie Hall",
+    "countries": "United States",
+    "languages": "English",
+    "runtime": 93,
+    "year": 1977,
+    "director": "Woody Allen",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Chemmeen",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 140,
+    "year": 1965,
+    "director": "Ramu Kariat",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Two Prosecutors / Zwei Staatsanwälte",
+    "countries": "France, Germany, Romania, Latvia, Netherlands, Lithuania",
+    "languages": "Russian, Ukrainian",
+    "runtime": 117,
+    "year": 2025,
+    "director": "Sergei Loznitsa",
+    "originalTitle": "Zwei Staatsanwälte",
+    "category": ""
+  },
+  {
+    "title": "Cairo Station / Bab el Hadid",
+    "countries": "Egypt (United Arab Republic at the time)",
+    "languages": "Egyptian Arabic",
+    "runtime": 77,
+    "year": 1958,
+    "director": "Youssef Chahine",
+    "originalTitle": "Bab el Hadid",
+    "category": ""
+  },
+  {
+    "title": "Subarnarekha / সুবর্ণরেখা",
+    "countries": "India",
+    "languages": "Bengali",
+    "runtime": 143,
+    "year": 1965,
+    "director": "Ritwik Ghatak",
+    "originalTitle": "সুবর্ণরেখা",
+    "category": ""
+  },
+
+  {
+    "title": "The President’s Cake",
+    "countries": "Iraq, USA, Qatar",
+    "languages": "Arabic (Iraqi dialect)",
+    "runtime": 102,
+    "year": 2025,
+    "director": "Hasan Hadi",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "XXY",
+    "countries": "Argentina, Spain, France",
+    "languages": "Spanish",
+    "runtime": 91,
+    "year": 2007,
+    "director": "Lucía Puenzo",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Lucky Lu",
+    "countries": "USA",
+    "languages": "Chinese, English",
+    "runtime": 103,
+    "year": 2025,
+    "director": "Lloyd Lee Choi",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Allah Is Not Obliged / Allah n’est pas obligé",
+    "countries": "France, Guinea, Lebanon",
+    "languages": "French, African dialects",
+    "runtime": 80,
+    "year": 2025,
+    "director": "Zaven Najjar",
+    "originalTitle": "Allah n’est pas obligé",
+    "category": ""
+  },
+  {
+    "title": "Parviz",
+    "countries": "Iran",
+    "languages": "Persian",
+    "runtime": 107,
+    "year": 2012,
+    "director": "Majid Barzegar",
+    "originalTitle": "",
+    "category": ""
+  },
+
+  {
+    "title": "Young Mothers / Jeunes mères",
+    "countries": "Belgium, France",
+    "languages": "French",
+    "runtime": 106,
+    "year": 2025,
+    "director": "Luc Dardenne, Jean-Pierre Dardenne",
+    "originalTitle": "Jeunes mères",
+    "category": ""
+  },
+  {
+    "title": "Bugonia",
+    "countries": "USA, Ireland, South Korea",
+    "languages": "English",
+    "runtime": 118,
+    "year": 2025,
+    "director": "Yorgos Lanthimos",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Life of a Phallus",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 117,
+    "year": 2025,
+    "director": "Unnikrishnan Avala",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Kissing Bug / Vinchuca",
+    "countries": "Argentina, Brazil",
+    "languages": "Spanish",
+    "runtime": 96,
+    "year": 2024,
+    "director": "Luis Zorraquin",
+    "originalTitle": "Vinchuca",
+    "category": ""
+  },
+  {
+    "title": "Hijo Mayor",
+    "countries": "Argentina, France",
+    "languages": "Spanish, Korean",
+    "runtime": 118,
+    "year": 2025,
+    "director": "Cecilia Kang",
+    "originalTitle": "",
+    "category": ""
+  },
+
+  {
+    "title": "Calle Málaga",
+    "countries": "Morocco, France, Spain, Germany, Belgium",
+    "languages": "Spanish, Arabic",
+    "runtime": 116,
+    "year": 2025,
+    "director": "Maryam Touzani",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Cactus Pears / Sabar Bonda",
+    "countries": "India",
+    "languages": "Marathi",
+    "runtime": 117,
+    "year": 2025,
+    "director": "Rohan Parashuram Kanawade",
+    "originalTitle": "Sabar Bonda",
+    "category": ""
+  },
+  {
+    "title": "The Secret Agent / O Agente Secreto",
+    "countries": "Brazil, France, Germany, Netherlands",
+    "languages": "Portuguese, German",
+    "runtime": 158,
+    "year": 2025,
+    "director": "Kleber Mendonça Filho",
+    "originalTitle": "O Agente Secreto",
+    "category": ""
+  },
+  {
+    "title": "The Other / El Akhar",
+    "countries": "Egypt, France",
+    "languages": "Arabic",
+    "runtime": 105,
+    "year": 1999,
+    "director": "Youssef Chahine",
+    "originalTitle": "El Akhar",
+    "category": ""
+  },
+  {
+    "title": "The Stranger / L’Étranger",
+    "countries": "France",
+    "languages": "French",
+    "runtime": 120,
+    "year": 2025,
+    "director": "François Ozon",
+    "originalTitle": "L’Étranger",
+    "category": ""
+  },
+
+  {
+    "title": "The Banquet of Primal Love / Aadi snehathinte virunnu mesha",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 74,
+    "year": 2025,
+    "director": "Mini I G",
+    "originalTitle": "Aadi snehathinte virunnu mesha",
+    "category": ""
+  },
+  {
+    "title": "Tiger's Pond / Vaghachipani",
+    "countries": "India",
+    "languages": "Kannada, Malayalam",
+    "runtime": 87,
+    "year": 2025,
+    "director": "Natesh Hegde",
+    "originalTitle": "Vaghachipani",
+    "category": ""
+  },
+  {
+    "title": "Girl and the Fools Parade / Pennum Porattum",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 121,
+    "year": 2025,
+    "director": "Rajesh Madhavan",
+    "originalTitle": "Pennum Porattum",
+    "category": ""
+  },
+  {
+    "title": "Sirat",
+    "countries": "Spain, France",
+    "languages": "Spanish, French, English, Arabic",
+    "runtime": 114,
+    "year": 2025,
+    "director": "Oliver Laxe",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Sound of Falling / In die Sonne schauen",
+    "countries": "Germany",
+    "languages": "German",
+    "runtime": 149,
+    "year": 2025,
+    "director": "Mascha Schilinski",
+    "originalTitle": "In die Sonne schauen",
+    "category": ""
+  }
+]
+
+[
+  {
+    "title": "The Brood",
+    "countries": "Canada",
+    "languages": "English",
+    "runtime": 92,
+    "year": 1979,
+    "director": "David Cronenberg",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Ambrosia",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 82,
+    "year": 2025,
+    "director": "Adhithya Baby",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Cinema Jazireh",
+    "countries": "Turkiye, Iran, Afghanistan",
+    "languages": "Dari, Persian, Afghan Persian",
+    "runtime": 124,
+    "year": 2025,
+    "director": "Gözde Kural",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "All The Living",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 91,
+    "year": 2025,
+    "director": "Sherry Govindan",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "The Abyss / The Empire / L’Empire",
+    "countries": "Belgium, France, Luxembourg",
+    "languages": "French",
+    "runtime": 115,
+    "year": 2024,
+    "director": "Bruno Dumont",
+    "originalTitle": "L’Empire",
+    "category": ""
+  },
+
+  {
+    "title": "Jaws",
+    "countries": "United States",
+    "languages": "English",
+    "runtime": 124,
+    "year": 1975,
+    "director": "Steven Spielberg",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Desert of Namibia / Namib Naukluft Park",
+    "countries": "Namibia",
+    "languages": "English",
+    "runtime": 88,
+    "year": 2025,
+    "director": "Haik Kocharian",
+    "originalTitle": "Namib Naukluft Park",
+    "category": ""
+  },
+  {
+    "title": "Nino",
+    "countries": "France",
+    "languages": "French",
+    "runtime": 97,
+    "year": 2024,
+    "director": "Pauline Loquès",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Cu Li Never Cries",
+    "countries": "Vietnam, Singapore, France, Philippines",
+    "languages": "Vietnamese",
+    "runtime": 105,
+    "year": 2024,
+    "director": "Pham Ngoc Lan",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "If on a Winter’s Night / Windows to the Sky",
+    "countries": "India",
+    "languages": "Malayalam, Hindi",
+    "runtime": 99,
+    "year": 2025,
+    "director": "Sanju Surendran",
+    "originalTitle": "Windows to the Sky",
+    "category": ""
+  },
+
+  {
+    "title": "The Hours of Song / The Song of the Night Forest",
+    "countries": "India, France",
+    "languages": "Bodo, Hindi, Assamese, English",
+    "runtime": 134,
+    "year": 2025,
+    "director": "Jaicheng Zxai Dohutia",
+    "originalTitle": "The Song of the Night Forest",
+    "category": ""
+  },
+  {
+    "title": "Mogul Mowgli",
+    "countries": "UK",
+    "languages": "English",
+    "runtime": 89,
+    "year": 2020,
+    "director": "Bassam Tariq",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Franz",
+    "countries": "Germany, Czech Republic",
+    "languages": "German",
+    "runtime": 127,
+    "year": 2025,
+    "director": "Agnieszka Holland",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Hiroshima Mon Amour",
+    "countries": "France",
+    "languages": "French",
+    "runtime": 90,
+    "year": 1959,
+    "director": "Alain Resnais",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Clouds of May / Mayis Sıkıntısı",
+    "countries": "Turkey",
+    "languages": "Turkish",
+    "runtime": 130,
+    "year": 1999,
+    "director": "Nuri Bilge Ceylan",
+    "originalTitle": "Mayis Sıkıntısı",
+    "category": ""
+  },
+
+  {
+    "title": "Magellan / Magalhães",
+    "countries": "Portugal, Spain, Philippines, France, Taiwan",
+    "languages": "Portuguese, Spanish, Cebuano, French",
+    "runtime": 160,
+    "year": 2025,
+    "director": "Lav Diaz",
+    "originalTitle": "Magalhães",
+    "category": ""
+  },
+  {
+    "title": "Desire / Moham",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 111,
+    "year": 2025,
+    "director": "Fazil Razak",
+    "originalTitle": "Moham",
+    "category": ""
+  },
+  {
+    "title": "Black Soldier",
+    "countries": "Kyrgyzstan",
+    "languages": "Kyrgyz",
+    "runtime": 95,
+    "year": 2025,
+    "director": "Taalaibek Kulmendeev",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Alien",
+    "countries": "United States",
+    "languages": "English",
+    "runtime": 117,
+    "year": 1979,
+    "director": "Ridley Scott",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Melody of Oblivion / The Land of Wandering Spirits",
+    "countries": "France",
+    "languages": "French, English",
+    "runtime": 131,
+    "year": 2025,
+    "director": "Gaël Morel",
+    "originalTitle": "The Land of Wandering Spirits",
+    "category": ""
+  },
+
+  {
+    "title": "Papa Buka",
+    "countries": "Papua New Guinea, India",
+    "languages": "Tok Pisin, Hindi, English, Bengali",
+    "runtime": 100,
+    "year": 2025,
+    "director": "Dr Biju",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Big River / Barakat",
+    "countries": "Sudan, South Sudan",
+    "languages": "Arabic, English",
+    "runtime": 115,
+    "year": 2025,
+    "director": "Maaria Sayed",
+    "originalTitle": "Barakat",
+    "category": ""
+  },
+  {
+    "title": "Silent Friend / Stille Freundin",
+    "countries": "Germany, France, Hungary, China",
+    "languages": "German, Hungarian, French",
+    "runtime": 145,
+    "year": 2025,
+    "director": "Ildikó Enyedi",
+    "originalTitle": "Stille Freundin",
+    "category": ""
+  },
+  {
+    "title": "Shape of Momo",
+    "countries": "India",
+    "languages": "Nepali",
+    "runtime": 114,
+    "year": 2025,
+    "director": "Tribeny Rai",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "A Useful Ghost / Pee Chai Dai Ka",
+    "countries": "Thailand, France, Germany, Singapore",
+    "languages": "Thai",
+    "runtime": 130,
+    "year": 2025,
+    "director": "Ratchapoom Boonbunchachoke",
+    "originalTitle": "Pee Chai Dai Ka",
+    "category": ""
+  },
+
+  {
+    "title": "All That’s Left of You / اللي باقي منك",
+    "countries": "Germany, Cyprus, Palestine, Jordan, Greece, Qatar, Saudi Arabia",
+    "languages": "Arabic, English",
+    "runtime": 145,
+    "year": 2025,
+    "director": "Cherien Dabis",
+    "originalTitle": "اللي باقي منك",
+    "category": ""
+  },
+  {
+    "title": "Bugonia",
+    "countries": "USA, Ireland, South Korea",
+    "languages": "English",
+    "runtime": 118,
+    "year": 2025,
+    "director": "Yorgos Lanthimos",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "The Book of Sijjin / Kitab al-Sijjin",
+    "countries": "Tunisia",
+    "languages": "Arabic",
+    "runtime": 95,
+    "year": 2024,
+    "director": "Nejib Belkadhi",
+    "originalTitle": "Kitab al-Sijjin",
+    "category": ""
+  },
+
+  {
+    "title": "The Gold Rush",
+    "countries": "USA",
+    "languages": "No Dialogue",
+    "runtime": 95,
+    "year": 1925,
+    "director": "Charlie Chaplin",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Nirmalyam",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 134,
+    "year": 1973,
+    "director": "M. T. Vasudevan Nair",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Cu Li Never Cries",
+    "countries": "Vietnam, Singapore, France, Philippines",
+    "languages": "Vietnamese",
+    "runtime": 105,
+    "year": 2024,
+    "director": "Pham Ngoc Lan",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Dreams (Sex Love) / Drømmer",
+    "countries": "Norway",
+    "languages": "Norwegian",
+    "runtime": 120,
+    "year": 2025,
+    "director": "Henrik Martin Dahlsbakken",
+    "originalTitle": "Drømmer",
+    "category": ""
+  },
+  {
+    "title": "Aguirre, Wrath of God / Aguirre, der Zorn Gottes",
+    "countries": "West Germany, Mexico, Peru",
+    "languages": "German",
+    "runtime": 94,
+    "year": 1972,
+    "director": "Werner Herzog",
+    "originalTitle": "Aguirre, der Zorn Gottes",
+    "category": ""
+  },
+
+  {
+    "title": "The Girl in the Snow / L’engloutie",
+    "countries": "France",
+    "languages": "French",
+    "runtime": 98,
+    "year": 2025,
+    "director": "Louise Hémon",
+    "originalTitle": "L’engloutie",
+    "category": ""
+  },
+  {
+    "title": "The Little Sister / La Petite Dernière",
+    "countries": "France, Germany",
+    "languages": "French",
+    "runtime": 106,
+    "year": 2025,
+    "director": "Hafsia Herzi",
+    "originalTitle": "La Petite Dernière",
+    "category": ""
+  },
+  {
+    "title": "The Mysterious Gaze of the Flamingo / La mirada misteriosa del flamenco",
+    "countries": "Chile, France, Belgium, Spain, Germany",
+    "languages": "Spanish",
+    "runtime": 104,
+    "year": 2025,
+    "director": "Diego Céspedes",
+    "originalTitle": "La mirada misteriosa del flamenco",
+    "category": ""
+  },
+  {
+    "title": "When I Move / Når jeg flyttar",
+    "countries": "Norway",
+    "languages": "Norwegian",
+    "runtime": 93,
+    "year": 2025,
+    "director": "Silje Evensmo Jacobsen",
+    "originalTitle": "Når jeg flyttar",
+    "category": ""
+  },
+  {
+    "title": "Lose to Win",
+    "countries": "Belgium",
+    "languages": "French",
+    "runtime": 118,
+    "year": 2025,
+    "director": "Anke Blondé",
+    "originalTitle": "",
+    "category": ""
+  },
+
+  {
+    "title": "My Father’s Shadow",
+    "countries": "Ireland",
+    "languages": "English",
+    "runtime": 86,
+    "year": 2025,
+    "director": "Mark Noonan",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Alien",
+    "countries": "United States",
+    "languages": "English",
+    "runtime": 117,
+    "year": 1979,
+    "director": "Ridley Scott",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Sthalathe Pradhana Payyans",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 142,
+    "year": 1993,
+    "director": "Shaji Kailas",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "The Glorious Works of G.F. Zwaen",
+    "countries": "Netherlands",
+    "languages": "Dutch",
+    "runtime": 96,
+    "year": 2024,
+    "director": "Tomas Kaan",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Donkeyote",
+    "countries": "Spain, Germany, UK",
+    "languages": "Spanish",
+    "runtime": 86,
+    "year": 2017,
+    "director": "Chico Pereira",
+    "originalTitle": "",
+    "category": ""
+  },
+
+  {
+    "title": "The Diary of West Bangal",
+    "countries": "India",
+    "languages": "Bengali",
+    "runtime": 103,
+    "year": 2025,
+    "director": "Riyansh Mitra",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Elephant / எல்பன்ட்",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 88,
+    "year": 2025,
+    "director": "Deepu Madhavan",
+    "originalTitle": "எல்பன்ட்",
+    "category": ""
+  },
+  {
+    "title": "Le Mali 70",
+    "countries": "Mali",
+    "languages": "English",
+    "runtime": 86,
+    "year": 2023,
+    "director": "Markus CM Schmidt",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "The Pearl",
+    "countries": "Mexico, France",
+    "languages": "Mixed Languages",
+    "runtime": 108,
+    "year": 2025,
+    "director": "Rodrigo Bello",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Heisei Rider vs Showa Rider",
+    "countries": "Japan",
+    "languages": "Japanese",
+    "runtime": 82,
+    "year": 2014,
+    "director": "Takayuki Shibasaki",
+    "originalTitle": "",
+    "category": ""
+  },
+
+  {
+    "title": "Little Trouble Girls / Kaj ti je deklica",
+    "countries": "Slovenia, Italy, Croatia, Serbia",
+    "languages": "Slovenian",
+    "runtime": 89,
+    "year": 2025,
+    "director": "Urška Djukić",
+    "originalTitle": "Kaj ti je deklica",
+    "category": ""
+  },
+  {
+    "title": "Red Point / Punto Rojo",
+    "countries": "Chile",
+    "languages": "Spanish",
+    "runtime": 88,
+    "year": 2025,
+    "director": "Nicolás Guzmán",
+    "originalTitle": "Punto Rojo",
+    "category": ""
+  },
+  {
+    "title": "The Wrestler",
+    "countries": "India",
+    "languages": "Kannada",
+    "runtime": 105,
+    "year": 2025,
+    "director": "Rishika Sharma",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Bengal 1930",
+    "countries": "India",
+    "languages": "Bengali",
+    "runtime": 128,
+    "year": 2025,
+    "director": "Sovan Sen",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Alex’s Place",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 97,
+    "year": 2025,
+    "director": "Jithu Madhavan",
+    "originalTitle": "",
+    "category": ""
+  },
+
+  {
+    "title": "Everest",
+    "countries": "Nepal, UK",
+    "languages": "Nepali, English",
+    "runtime": 100,
+    "year": 2025,
+    "director": "Anup Subedi",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Sirat",
+    "countries": "Spain, France",
+    "languages": "Spanish, French, English, Arabic",
+    "runtime": 114,
+    "year": 2025,
+    "director": "Oliver Laxe",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Cut",
+    "countries": "Iran",
+    "languages": "Persian",
+    "runtime": 115,
+    "year": 2024,
+    "director": "Kianoush Ayari",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Terrestrial Verses",
+    "countries": "Iran",
+    "languages": "Persian",
+    "runtime": 77,
+    "year": 2023,
+    "director": "Alireza Khatami, Ali Asgari",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Turtles Can Fly",
+    "countries": "Iraq, Iran",
+    "languages": "Kurdish, Persian",
+    "runtime": 98,
+    "year": 2004,
+    "director": "Bahman Ghobadi",
+    "originalTitle": "",
+    "category": ""
+  },
+
+  {
+    "title": "White Building",
+    "countries": "Cambodia",
+    "languages": "Khmer",
+    "runtime": 90,
+    "year": 2021,
+    "director": "Kavich Neang",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Our Father / Oče naš",
+    "countries": "Serbia, Italy, Croatia, Macedonia, Montenegro, Bosnia and Herzegovina",
+    "languages": "Serbian",
+    "runtime": 89,
+    "year": 2025,
+    "director": "Goran Stanković",
+    "originalTitle": "Oče naš",
+    "category": ""
+  },
+  {
+    "title": "Troubles Come Today",
+    "countries": "Ireland, UK",
+    "languages": "English",
+    "runtime": 103,
+    "year": 2025,
+    "director": "Eva Birthistle",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Cot Bonkin",
+    "countries": "Cameroon, Belgium",
+    "languages": "French, Cameroonian Dialects",
+    "runtime": 112,
+    "year": 2025,
+    "director": "Victor Viyuoh",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Raam",
+    "countries": "India",
+    "languages": "Tamil",
+    "runtime": 101,
+    "year": 2025,
+    "director": "Mounaguru Aarumugam",
+    "originalTitle": "",
+    "category": ""
+  },
+
+  {
+    "title": "The Complaint",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 112,
+    "year": 2025,
+    "director": "Mujeeb Majeed",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Forastera",
+    "countries": "Spain, Sweden, Italy",
+    "languages": "Catalan, English, Spanish",
+    "runtime": 97,
+    "year": 2025,
+    "director": "Lucía Aleñar Iglesias",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Continent",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 115,
+    "year": 2025,
+    "director": "Vinod Sukumaran",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Sunny Side Story",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 99,
+    "year": 2025,
+    "director": "Shalil Kallur",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Without Air",
+    "countries": "Iran",
+    "languages": "Persian",
+    "runtime": 92,
+    "year": 2025,
+    "director": "Ramin Rasouli",
+    "originalTitle": "",
+    "category": ""
+  },
+
+  {
+    "title": "The Love That Remains / Ástin sem eftir er",
+    "countries": "Iceland, Denmark, France, Finland, Sweden",
+    "languages": "Icelandic",
+    "runtime": 109,
+    "year": 2025,
+    "director": "Hlynur Pálmason",
+    "originalTitle": "Ástin sem eftir er",
+    "category": ""
+  },
+  {
+    "title": "Kondal / கொண்டாள்",
+    "countries": "India",
+    "languages": "Tamil",
+    "runtime": 114,
+    "year": 2025,
+    "director": "Karthik Chowalloor",
+    "originalTitle": "கொண்டாள்",
+    "category": ""
+  },
+  {
+    "title": "Ezra",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 109,
+    "year": 2017,
+    "director": "Jay K",
+    "originalTitle": "",
+    "category": ""
+  },
+  {
+    "title": "Two Seasons, Two Strangers / Tabi to Hibi",
+    "countries": "Japan",
+    "languages": "Japanese, Korean",
+    "runtime": 89,
+    "year": 2025,
+    "director": "Sho Miyake",
+    "originalTitle": "Tabi to Hibi",
+    "category": ""
+  },
+  {
+    "title": "Wild Pear Tree / Ahlat Ağacı",
+    "countries": "Turkey",
+    "languages": "Turkish",
+    "runtime": 188,
+    "year": 2018,
+    "director": "Nuri Bilge Ceylan",
+    "originalTitle": "Ahlat Ağacı",
+    "category": ""
+  }
+]
+
+[
+  {
+    "title": "THEATRE",
+    "originalTitle": "",
+    "countries": "India, Canada",
+    "languages": "Tamil, Malayalam",
+    "runtime": 94,
+    "year": 2025,
+    "director": "Nishanth Kalidindi",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Life of a Phallus",
+    "originalTitle": "തന്തപ്പേര്",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 117,
+    "year": 2025,
+    "director": "Unnikrishnan Avala",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Flames / Laptein",
+    "originalTitle": "",
+    "countries": "India",
+    "languages": "Hindi",
+    "runtime": 86,
+    "year": 2025,
+    "director": "Ravi Shankar Kaushik",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "AWAIT",
+    "originalTitle": "കാത്തിരിപ്പ്",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 83,
+    "year": 2025,
+    "director": "Nipin Narayanan",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "A Sad and a Beautiful World",
+    "originalTitle": "",
+    "countries": "Lebanon, USA, Germany, Greece",
+    "languages": "Arabic, English",
+    "runtime": 110,
+    "year": 2025,
+    "director": "Nipin Narayanan",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Reedland / Rietland",
+    "originalTitle": "",
+    "countries": "Netherlands, Belgium",
+    "languages": "Dutch",
+    "runtime": 105,
+    "year": 2025,
+    "director": "Sven Bresser",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "A Useful Ghost",
+    "originalTitle": "Pee Chai Dai Ka",
+    "countries": "Thailand, France, Germany, Singapore",
+    "languages": "Thai",
+    "runtime": 130,
+    "year": 2025,
+    "director": "Ratchapoom Boonbunchachoke",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Samsara",
+    "originalTitle": "",
+    "countries": "Indonesia",
+    "languages": "Silent",
+    "runtime": 90,
+    "year": 2024,
+    "director": "Garin Nugroho",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Girl and the Fools Parade",
+    "originalTitle": "Pennum Porattum",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 121,
+    "year": 2025,
+    "director": "Rajesh Madhavan",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Girl",
+    "originalTitle": "女孩",
+    "countries": "Taiwan, China",
+    "languages": "Mandarin",
+    "runtime": 125,
+    "year": 2025,
+    "director": "Shu Qi",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+
+  {
+    "title": "Quixote Hunter",
+    "originalTitle": "",
+    "countries": "Spain",
+    "languages": "Spanish",
+    "runtime": 95,
+    "year": 2024,
+    "director": "Jorge Dorado",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "The Glorious Works of G.F. Zwaen",
+    "originalTitle": "",
+    "countries": "Netherlands",
+    "languages": "Dutch",
+    "runtime": 96,
+    "year": 2024,
+    "director": "Tomas Kaan",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "All That’s Left of You / اللي باقي منك",
+    "originalTitle": "اللي باقي منك",
+    "countries": "Germany, Cyprus, Palestine, Jordan, Greece, Qatar, Saudi Arabia",
+    "languages": "Arabic, English",
+    "runtime": 145,
+    "year": 2025,
+    "director": "Cherien Dabis",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Flames / Laptein",
+    "originalTitle": "Laptein",
+    "countries": "India",
+    "languages": "Hindi",
+    "runtime": 86,
+    "year": 2025,
+    "director": "Ravi Shankar Kaushik",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Breathless / À bout de souffle",
+    "originalTitle": "À bout de souffle",
+    "countries": "France",
+    "languages": "French",
+    "runtime": 90,
+    "year": 1960,
+    "director": "Jean-Luc Godard",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+
+  {
+    "title": "Whispers in the Dabbas / Nyanyi Sunyi Dalam Rantang",
+    "originalTitle": "Nyanyi Sunyi Dalam Rantang",
+    "countries": "Indonesia",
+    "languages": "Indonesian",
+    "runtime": 110,
+    "year": 2025,
+    "director": "Harvan Agustriansyah",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Tiger’s Pond / Vaghachipani",
+    "originalTitle": "Vaghachipani",
+    "countries": "India",
+    "languages": "Marathi",
+    "runtime": 117,
+    "year": 2025,
+    "director": "Mahesh Manjrekar",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Black Tea",
+    "originalTitle": "",
+    "countries": "France, Mauritania, Luxembourg, Taiwan, Ivory Coast",
+    "languages": "Mandarin, French, English, Portuguese",
+    "runtime": 111,
+    "year": 2024,
+    "director": "Abderrahmane Sissako",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "The Coffin / Shavapetti",
+    "originalTitle": "ശവപ്പെട്ടി",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 86,
+    "year": 2025,
+    "director": "Devika Jishnu",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Inshallah A Boy / إن شاء الله ولد",
+    "originalTitle": "إن شاء الله ولد",
+    "countries": "Jordan",
+    "languages": "Arabic",
+    "runtime": 118,
+    "year": 2023,
+    "director": "Amjad Al Rasheed",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+
+  {
+    "title": "The Currents / Las Corrientes",
+    "originalTitle": "Las Corrientes",
+    "countries": "Switzerland, Argentina",
+    "languages": "Spanish",
+    "runtime": 104,
+    "year": 2025,
+    "director": "Milagros Mumenthaler",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Who Do I Belong To / لمن أملك",
+    "originalTitle": "لمن أملك",
+    "countries": "Tunisia, France, Saudi Arabia, Germany",
+    "languages": "Arabic",
+    "runtime": 103,
+    "year": 2024,
+    "director": "Meryam Joobeur",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Cut",
+    "originalTitle": "",
+    "countries": "Iran",
+    "languages": "Persian",
+    "runtime": 115,
+    "year": 2024,
+    "director": "Kianoush Ayari",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Chemmeen",
+    "originalTitle": "",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 131,
+    "year": 1965,
+    "director": "Ramu Kariat",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Subarnarekha / সুবর্ণরেখা",
+    "originalTitle": "সুবর্ণরেখা",
+    "countries": "India",
+    "languages": "Bengali",
+    "runtime": 141,
+    "year": 1962,
+    "director": "Ritwik Ghatak",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+
+  {
+    "title": "The Girl Who Stole Time",
+    "originalTitle": "",
+    "countries": "China",
+    "languages": "Mandarin, Chinese",
+    "runtime": 107,
+    "year": 2025,
+    "director": "Yu Ao, Zhou Tienan",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Tiger Stripes",
+    "originalTitle": "",
+    "countries": "Malaysia",
+    "languages": "Malay",
+    "runtime": 95,
+    "year": 2023,
+    "director": "Amanda Nell Eu",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Housekeeping for Beginners",
+    "originalTitle": "",
+    "countries": "North Macedonia, Kosovo, Poland",
+    "languages": "Albanian, Romani",
+    "runtime": 115,
+    "year": 2023,
+    "director": "Goran Stolevski",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Alexandrina",
+    "originalTitle": "",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 108,
+    "year": 2025,
+    "director": "Sherry Govindan",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Alexandria… Why? / إسكندرية ليه؟",
+    "originalTitle": "إസ്കندرية ليه؟",
+    "countries": "Egypt",
+    "languages": "Arabic",
+    "runtime": 133,
+    "year": 1979,
+    "director": "Youssef Chahine",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+
+  {
+    "title": "The Abyss / The Empire / L’Empire",
+    "originalTitle": "L’Empire",
+    "countries": "Belgium, France, Luxembourg",
+    "languages": "French",
+    "runtime": 115,
+    "year": 2024,
+    "director": "Bruno Dumont",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Blue Velvet",
+    "originalTitle": "",
+    "countries": "USA",
+    "languages": "English",
+    "runtime": 120,
+    "year": 1986,
+    "director": "David Lynch",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "The Hours of Song / The Song of the Night Forest",
+    "originalTitle": "The Song of the Night Forest",
+    "countries": "India, France",
+    "languages": "Bodo, Hindi, Assamese, English",
+    "runtime": 134,
+    "year": 2025,
+    "director": "Jaicheng Zxai Dohutia",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Brest Fortress / Брестская крепость",
+    "originalTitle": "Брестская крепость",
+    "countries": "Belarus, Russia",
+    "languages": "Russian",
+    "runtime": 138,
+    "year": 2010,
+    "director": "Alexander Kott",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Cot Bonkin",
+    "originalTitle": "",
+    "countries": "Cameroon, Belgium",
+    "languages": "French, Cameroonian Dialects",
+    "runtime": 112,
+    "year": 2025,
+    "director": "Victor Viyuoh",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+
+  {
+    "title": "The President’s Cake",
+    "originalTitle": "",
+    "countries": "Iraq, USA, Qatar",
+    "languages": "Arabic (Iraqi)",
+    "runtime": 102,
+    "year": 2025,
+    "director": "Hasan Hadi",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Forastera",
+    "originalTitle": "",
+    "countries": "Spain, Sweden, Italy",
+    "languages": "Catalan, English, Spanish",
+    "runtime": 97,
+    "year": 2025,
+    "director": "Lucía Aleñar Iglesias",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Two Prosecutors / Zwei Staatsanwälte",
+    "originalTitle": "Zwei Staatsanwälte",
+    "countries": "Germany, Austria",
+    "languages": "German",
+    "runtime": 109,
+    "year": 2025,
+    "director": "Hans Steinbichler",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Nayattu",
+    "originalTitle": "",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 125,
+    "year": 2021,
+    "director": "Martin Prakkat",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Donkeyote",
+    "originalTitle": "",
+    "countries": "Spain, Germany, UK",
+    "languages": "Spanish",
+    "runtime": 86,
+    "year": 2017,
+    "director": "Chico Pereira",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+
+  {
+    "title": "The Mysterious Gaze of the Flamingo / La mirada misteriosa del flamenco",
+    "originalTitle": "La mirada misteriosa del flamenco",
+    "countries": "Chile, France, Belgium, Spain, Germany",
+    "languages": "Spanish",
+    "runtime": 104,
+    "year": 2025,
+    "director": "Diego Céspedes",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "The Wrestler",
+    "originalTitle": "",
+    "countries": "India",
+    "languages": "Kannada",
+    "runtime": 105,
+    "year": 2025,
+    "director": "Rishika Sharma",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Father Mother Sister Brother",
+    "originalTitle": "",
+    "countries": "USA, Ireland, France, Italy, Japan",
+    "languages": "English",
+    "runtime": 110,
+    "year": 2025,
+    "director": "Jim Jarmusch",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Shape of Momo",
+    "originalTitle": "",
+    "countries": "India",
+    "languages": "Nepali",
+    "runtime": 114,
+    "year": 2025,
+    "director": "Tribeny Rai",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Two Seasons, Two Strangers / Tabi to Hibi",
+    "originalTitle": "Tabi to Hibi",
+    "countries": "Japan",
+    "languages": "Japanese, Korean",
+    "runtime": 89,
+    "year": 2025,
+    "director": "Sho Miyake",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+
+  {
+    "title": "The Banquet of Primal Love",
+    "originalTitle": "ആദി സ്നേഹത്തിന്റെ വിരുന്ന് മേശ",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 121,
+    "year": 2025,
+    "director": "Sandeep Kurissery",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Tiger’s Pond / Vaghachipani",
+    "originalTitle": "Vaghachipani",
+    "countries": "India",
+    "languages": "Marathi",
+    "runtime": 117,
+    "year": 2025,
+    "director": "Mahesh Manjrekar",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Aisha Can’t Fly Away",
+    "originalTitle": "",
+    "countries": "Pakistan",
+    "languages": "Urdu",
+    "runtime": 114,
+    "year": 2025,
+    "director": "Hassan Kazmi",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "The Currents / Las Corrientes",
+    "originalTitle": "Las Corrientes",
+    "countries": "Switzerland, Argentina",
+    "languages": "Spanish",
+    "runtime": 104,
+    "year": 2025,
+    "director": "Milagros Mumenthaler",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "What Does That Nature Say to You",
+    "originalTitle": "",
+    "countries": "South Korea",
+    "languages": "Korean",
+    "runtime": 109,
+    "year": 2025,
+    "director": "Hong Sang-soo",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+
+  {
+    "title": "Le Mali 70",
+    "originalTitle": "",
+    "countries": "Mali",
+    "languages": "English",
+    "runtime": 86,
+    "year": 2023,
+    "director": "Markus CM Schmidt",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Invasion 1897",
+    "originalTitle": "",
+    "countries": "Nigeria",
+    "languages": "English",
+    "runtime": 152,
+    "year": 2014,
+    "director": "Lancelot Oduwa Imasuen",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Eva",
+    "originalTitle": "",
+    "countries": "Honduras, Colombia, Guatemala",
+    "languages": "Spanish",
+    "runtime": 95,
+    "year": 2025,
+    "director": "William Reyes",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Chemmeen",
+    "originalTitle": "",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 131,
+    "year": 1965,
+    "director": "Ramu Kariat",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Sunny Side Story",
+    "originalTitle": "",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 99,
+    "year": 2025,
+    "director": "Shalil Kallur",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+
+  {
+    "title": "Moonlight Shadow",
+    "originalTitle": "",
+    "countries": "Japan",
+    "languages": "Japanese",
+    "runtime": 92,
+    "year": 2021,
+    "director": "Edmund Yeo",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Girl",
+    "originalTitle": "女孩",
+    "countries": "Taiwan, China",
+    "languages": "Mandarin",
+    "runtime": 125,
+    "year": 2025,
+    "director": "Shu Qi",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Reverberations",
+    "originalTitle": "",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 92,
+    "year": 2025,
+    "director": "Gokul Suresh",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Echo of the Waves / തരംഗങ്ങൾ",
+    "originalTitle": "തരംഗങ്ങൾ",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 101,
+    "year": 2025,
+    "director": "Kiran Raj",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Caméra d’Afrique",
+    "originalTitle": "",
+    "countries": "Tunisia",
+    "languages": "French",
+    "runtime": 90,
+    "year": 1983,
+    "director": "Ferid Boughedir",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+
+  {
+    "title": "Shape of Momo",
+    "originalTitle": "",
+    "countries": "India",
+    "languages": "Nepali",
+    "runtime": 114,
+    "year": 2025,
+    "director": "Tribeny Rai",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Black Water",
+    "originalTitle": "",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 97,
+    "year": 2025,
+    "director": "Nithin Ninan",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Woodpeckers of Rotha",
+    "originalTitle": "",
+    "countries": "India",
+    "languages": "Marathi",
+    "runtime": 110,
+    "year": 2025,
+    "director": "Makarand Mane",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "The Virgin of the Quarry Lake / La virgen de la tosquera",
+    "originalTitle": "La virgen de la tosquera",
+    "countries": "Argentina, Mexico, Spain",
+    "languages": "Spanish",
+    "runtime": 93,
+    "year": 2025,
+    "director": "Laura Casabé",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "The Things You Kill / Öldürdüğün Şeyler",
+    "originalTitle": "Öldürdüğün Şeyler",
+    "countries": "Turkey",
+    "languages": "Turkish",
+    "runtime": 120,
+    "year": 2025,
+    "director": "Ugur Yüksel",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+
+  {
+    "title": "El Conde",
+    "originalTitle": "",
+    "countries": "Chile",
+    "languages": "English, French, Spanish",
+    "runtime": 111,
+    "year": 2023,
+    "director": "Pablo Larraín",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "The Broker",
+    "originalTitle": "",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 124,
+    "year": 2025,
+    "director": "Nithin K S",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Aisha Can’t Fly Away",
+    "originalTitle": "",
+    "countries": "Pakistan",
+    "languages": "Urdu",
+    "runtime": 114,
+    "year": 2025,
+    "director": "Hassan Kazmi",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Cut",
+    "originalTitle": "",
+    "countries": "Iran",
+    "languages": "Persian",
+    "runtime": 115,
+    "year": 2024,
+    "director": "Kianoush Ayari",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Ambili",
+    "originalTitle": "",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 126,
+    "year": 2019,
+    "director": "Johnpaul George",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+
+  {
+    "title": "Parviz",
+    "originalTitle": "",
+    "countries": "Iran",
+    "languages": "Persian",
+    "runtime": 107,
+    "year": 2012,
+    "director": "Majid Barzegar",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Captain Miller",
+    "originalTitle": "",
+    "countries": "India",
+    "languages": "Tamil",
+    "runtime": 155,
+    "year": 2024,
+    "director": "Arun Matheswaran",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "The Abyss / L’Empire",
+    "originalTitle": "L’Empire",
+    "countries": "Belgium, France, Luxembourg",
+    "languages": "French",
+    "runtime": 115,
+    "year": 2024,
+    "director": "Bruno Dumont",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "The Wrestler",
+    "originalTitle": "",
+    "countries": "India",
+    "languages": "Kannada",
+    "runtime": 105,
+    "year": 2025,
+    "director": "Rishika Sharma",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "The Secret Agent / O Agente Secreto",
+    "originalTitle": "O Agente Secreto",
+    "countries": "Brazil, France, Germany, Netherlands",
+    "languages": "Portuguese, German",
+    "runtime": 158,
+    "year": 2025,
+    "director": "Kleber Mendonça Filho",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  }
+]
+
+[
+  {
+    "title": "Flowers of Shanghai",
+    "originalTitle": "海上花",
+    "countries": "Taiwan, Japan, France",
+    "languages": "Chinese, Japanese",
+    "runtime": 113,
+    "year": 1998,
+    "director": "Hou Hsiao-hsien",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Full Plate",
+    "originalTitle": "",
+    "countries": "United States",
+    "languages": "English",
+    "runtime": 95,
+    "year": 1959,
+    "director": "Frank Capra",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "All The Living",
+    "originalTitle": "സമസ്താ ലോകാ",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 91,
+    "year": 2025,
+    "director": "Sherry Govindan",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "The Elysian Field",
+    "originalTitle": "Ha Lyngkha Bneng",
+    "countries": "India",
+    "languages": "Khasi",
+    "runtime": 104,
+    "year": 2025,
+    "director": "Dominic Sangma",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Girls on Wire",
+    "originalTitle": "翔飞的女孩",
+    "countries": "China",
+    "languages": "Chinese",
+    "runtime": 102,
+    "year": 2025,
+    "director": "Guo Chunning",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+
+  {
+    "title": "Flowers of Shanghai",
+    "originalTitle": "海上花",
+    "countries": "Taiwan, Japan, France",
+    "languages": "Chinese, Japanese",
+    "runtime": 113,
+    "year": 1998,
+    "director": "Hou Hsiao-hsien",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "The Dark Room",
+    "originalTitle": "La Chambre obscure",
+    "countries": "France",
+    "languages": "French",
+    "runtime": 91,
+    "year": 2025,
+    "director": "Alexis Langlois",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Don’t Cry, Butterfly",
+    "originalTitle": "Mưa trên cánh bướm",
+    "countries": "Vietnam",
+    "languages": "Vietnamese",
+    "runtime": 118,
+    "year": 2025,
+    "director": "Pham Thien An",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Two Prosecutors",
+    "originalTitle": "Два прокурора",
+    "countries": "Ukraine",
+    "languages": "Russian, Ukrainian",
+    "runtime": 92,
+    "year": 2025,
+    "director": "Sergei Loznitsa",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Bad Girl",
+    "originalTitle": "",
+    "countries": "South Korea",
+    "languages": "Korean",
+    "runtime": 126,
+    "year": 2025,
+    "director": "Lee Kyoung-mi",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+
+  {
+    "title": "Where The Wind Comes From",
+    "originalTitle": "",
+    "countries": "Lebanon",
+    "languages": "Arabic",
+    "runtime": 93,
+    "year": 2025,
+    "director": "Selim Mourad",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "L’Argent",
+    "originalTitle": "L’Argent",
+    "countries": "France",
+    "languages": "French",
+    "runtime": 84,
+    "year": 1983,
+    "director": "Robert Bresson",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Sound of Falling",
+    "originalTitle": "In die Sonne schauen",
+    "countries": "Germany",
+    "languages": "German",
+    "runtime": 92,
+    "year": 2025,
+    "director": "Nikias Chryssos",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "The Blue Trail",
+    "originalTitle": "O Último Azul",
+    "countries": "Brazil",
+    "languages": "Portuguese",
+    "runtime": 103,
+    "year": 2025,
+    "director": "Adriana Zonari",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Echo of the Waves",
+    "originalTitle": "തരംഗങ്ങൾ",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 101,
+    "year": 2025,
+    "director": "Kiran Raj",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+
+  {
+    "title": "Kissing Bug",
+    "originalTitle": "വാഞ്ചൂക്ക",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 110,
+    "year": 2025,
+    "director": "Anuraj OB",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Tiger Stripes",
+    "originalTitle": "",
+    "countries": "Malaysia",
+    "languages": "Malay",
+    "runtime": 95,
+    "year": 2023,
+    "director": "Amanda Nell Eu",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "The Settlement",
+    "originalTitle": "",
+    "countries": "Egypt, France, Germany",
+    "languages": "Arabic",
+    "runtime": 120,
+    "year": 2025,
+    "director": "Amir Ramses",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Don’t Cry, Butterfly",
+    "originalTitle": "Mưa trên cánh bướm",
+    "countries": "Vietnam",
+    "languages": "Vietnamese",
+    "runtime": 118,
+    "year": 2025,
+    "director": "Pham Thien An",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Aho-oooh",
+    "originalTitle": "",
+    "countries": "India",
+    "languages": "Marathi",
+    "runtime": 96,
+    "year": 2025,
+    "director":": "Sumedh Anchalikar",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+
+  {
+    "title": "Woodpeckers of Rotha",
+    "originalTitle": "",
+    "countries": "India",
+    "languages": "Marathi",
+    "runtime": 110,
+    "year": 2025,
+    "director": "Makarand Mane",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Two Seasons, Two Strangers",
+    "originalTitle": "Tabi to Hibi",
+    "countries": "Japan",
+    "languages": "Japanese, Korean",
+    "runtime": 89,
+    "year": 2025,
+    "director": "Sho Miyake",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Invented Woman",
+    "originalTitle": "",
+    "countries": "Spain, Argentina",
+    "languages": "Spanish",
+    "runtime": 108,
+    "year": 2025,
+    "director": "Laura Fernández",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Subarnarekha",
+    "originalTitle": "সুবর্ণরেখা",
+    "countries": "India",
+    "languages": "Bengali",
+    "runtime": 141,
+    "year": 1962,
+    "director": "Ritwik Ghatak",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "El Conde",
+    "originalTitle": "",
+    "countries": "Chile",
+    "languages": "English, French, Spanish",
+    "runtime": 111,
+    "year": 2023,
+    "director": "Pablo Larraín",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+
+  {
+    "title": "The Complaint",
+    "originalTitle": "",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 112,
+    "year": 2025,
+    "director": "Mujeeb Majeed",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "The Secret Agent",
+    "originalTitle": "O Agente Secreto",
+    "countries": "Brazil, France, Germany, Netherlands",
+    "languages": "Portuguese, German",
+    "runtime": 158,
+    "year": 2025,
+    "director": "Kleber Mendonça Filho",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Two Prosecutors",
+    "originalTitle": "Два прокурора",
+    "countries": "Ukraine",
+    "languages": "Russian, Ukrainian",
+    "runtime": 92,
+    "year": 2025,
+    "director": "Sergei Loznitsa",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Gandhi Talks",
+    "originalTitle": "",
+    "countries": "India",
+    "languages": "No Dialogue",
+    "runtime": 130,
+    "year": 2025,
+    "director": "Kishor P. Belekar",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Who Do I Belong To",
+    "originalTitle": "لمن أملك",
+    "countries": "Tunisia, France, Saudi Arabia, Germany",
+    "languages": "Arabic",
+    "runtime": 103,
+    "year": 2024,
+    "director": "Meryam Joobeur",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+
+  {
+    "title": "Brest Fortress",
+    "originalTitle": "Брестская крепость",
+    "countries": "Belarus, Russia",
+    "languages": "Russian",
+    "runtime": 138,
+    "year": 2010,
+    "director": "Alexander Kott",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "The Hours of Song",
+    "originalTitle": "The Song of the Night Forest",
+    "countries": "India, France",
+    "languages": "Bodo, Hindi, Assamese, English",
+    "runtime": 134,
+    "year": 2025,
+    "director": "Jaicheng Zxai Dohutia",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "The Girl Who Stole Time",
+    "originalTitle": "",
+    "countries": "China",
+    "languages": "Mandarin",
+    "runtime": 107,
+    "year": 2025,
+    "director": "Yu Ao, Zhou Tienan",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "About Elly",
+    "originalTitle": "درباره الی",
+    "countries": "Iran",
+    "languages": "Persian",
+    "runtime": 119,
+    "year": 2009,
+    "director": "Asghar Farhadi",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "The Daughter",
+    "originalTitle": "",
+    "countries": "Georgia",
+    "languages": "Georgian",
+    "runtime": 96,
+    "year": 2025,
+    "director": "Nana Ekvtimishvili",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+
+  {
+    "title": "Two Seasons, Two Strangers",
+    "originalTitle": "Tabi to Hibi",
+    "countries": "Japan",
+    "languages": "Japanese, Korean",
+    "runtime": 89,
+    "year": 2025,
+    "director": "Sho Miyake",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "The Sun Rises on Us All",
+    "originalTitle": "",
+    "countries": "Australia",
+    "languages": "English",
+    "runtime": 104,
+    "year": 2025,
+    "director": "Maya Newell",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "All The Living",
+    "originalTitle": "സമസ്താ ലോകാ",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 91,
+    "year": 2025,
+    "director": "Sherry Govindan",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Alexandria… Why?",
+    "originalTitle": "إسكندرية ليه؟",
+    "countries": "Egypt",
+    "languages": "Arabic",
+    "runtime": 133,
+    "year": 1979,
+    "director": "Youssef Chahine",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Mariana’s Room",
+    "originalTitle": "La Chambre de Mariana",
+    "countries": "France",
+    "languages": "French",
+    "runtime": 102,
+    "year": 2025,
+    "director": "Jean-Marc Moutout",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+
+  {
+    "title": "Cu Li Never Cries",
+    "originalTitle": "",
+    "countries": "Vietnam, Singapore, France, Philippines",
+    "languages": "Vietnamese",
+    "runtime": 105,
+    "year": 2024,
+    "director": "Pham Ngoc Lan",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Avalanche",
+    "originalTitle": "",
+    "countries": "Norway",
+    "languages": "Norwegian",
+    "runtime": 100,
+    "year": 2025,
+    "director": "Henrik Martin Dahlsbakken",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "The Gold Rush",
+    "originalTitle": "",
+    "countries": "USA",
+    "languages": "No Dialogue",
+    "runtime": 95,
+    "year": 1925,
+    "director": "Charlie Chaplin",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Big River",
+    "originalTitle": "Barakat",
+    "countries": "Sudan, South Sudan",
+    "languages": "Arabic, English",
+    "runtime": 115,
+    "year": 2025,
+    "director": "Maaria Sayed",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Sirat",
+    "originalTitle": "",
+    "countries": "Spain, France",
+    "languages": "Spanish, French, English, Arabic",
+    "runtime": 114,
+    "year": 2025,
+    "director": "Oliver Laxe",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+
+  {
+    "title": "Should the Wind Drop",
+    "originalTitle": "Սերոբյան օդանավակայան",
+    "countries": "Armenia",
+    "languages": "Armenian",
+    "runtime": 101,
+    "year": 2025,
+    "director": "Nora Martirosyan",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Our Father",
+    "originalTitle": "Oče naš",
+    "countries": "Serbia, Italy, Croatia, Macedonia, Montenegro, Bosnia and Herzegovina",
+    "languages": "Serbian",
+    "runtime": 89,
+    "year": 2025,
+    "director": "Goran Stanković",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Where The Wind Comes From",
+    "originalTitle": "",
+    "countries": "Lebanon",
+    "languages": "Arabic",
+    "runtime": 93,
+    "year": 2025,
+    "director": "Selim Mourad",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "The Complaint",
+    "originalTitle": "",
+    "countries": "India",
+    "languages": "Malayalam",
+    "runtime": 112,
+    "year": 2025,
+    "director": "Mujeeb Majeed",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Who Do I Belong To",
+    "originalTitle": "لمن أملك",
+    "countries": "Tunisia, France, Saudi Arabia, Germany",
+    "languages": "Arabic",
+    "runtime": 103,
+    "year": 2024,
+    "director": "Meryam Joobeur",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+
+  {
+    "title": "Aval",
+    "originalTitle": "",
+    "countries": "India",
+    "languages": "Tamil",
+    "runtime": 122,
+    "year": 2025,
+    "director": "Rajavel Mohan",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Before the Body",
+    "originalTitle": "Antes del cuerpo",
+    "countries": "Colombia, Mexico, France",
+    "languages": "Spanish",
+    "runtime": 107,
+    "year": 2025,
+    "director": "Claudia Sánchez",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "The Other",
+    "originalTitle": "El Akhar",
+    "countries": "Tunisia",
+    "languages": "Arabic",
+    "runtime": 98,
+    "year": 2025,
+    "director": "Radhouane El Meddeb",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Big River",
+    "originalTitle": "Barakat",
+    "countries": "Sudan, South Sudan",
+    "languages": "Arabic, English",
+    "runtime": 115,
+    "year": 2025,
+    "director": "Maaria Sayed",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "L’Argent",
+    "originalTitle": "L’Argent",
+    "countries": "France",
+    "languages": "French",
+    "runtime": 84,
+    "year": 1983,
+    "director": "Robert Bresson",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+
+  {
+    "title": "The Gold Rush",
+    "originalTitle": "",
+    "countries": "USA",
+    "languages": "No Dialogue",
+    "runtime": 95,
+    "year": 1925,
+    "director": "Charlie Chaplin",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Avalanche",
+    "originalTitle": "",
+    "countries": "Norway",
+    "languages": "Norwegian",
+    "runtime": 100,
+    "year": 2025,
+    "director": "Henrik Martin Dahlsbakken",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Tiger Stripes",
+    "originalTitle": "",
+    "countries": "Malaysia",
+    "languages": "Malay",
+    "runtime": 95,
+    "year": 2023,
+    "director": "Amanda Nell Eu",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Cría Cuervos",
+    "originalTitle": "",
+    "countries": "Spain",
+    "languages": "Spanish",
+    "runtime": 110,
+    "year": 1976,
+    "director": "Carlos Saura",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Gandhi Talks",
+    "originalTitle": "",
+    "countries": "India",
+    "languages": "No Dialogue",
+    "runtime": 130,
+    "year": 2025,
+    "director": "Kishor P. Belekar",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  }
+]
+
+
+[
+  {
+    "title": "The Sea",
+    "originalTitle": "",
+    "countries": "Israel",
+    "languages": "Arabic, Hebrew",
+    "runtime": 93,
+    "year": 2025,
+    "director": "Shai Carmeli-Pollak",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Six Days in Spring",
+    "originalTitle": "Six jours, ce printemps-là",
+    "countries": "Belgium, France, Luxembourg",
+    "languages": "French",
+    "runtime": 94,
+    "year": 2025,
+    "director": "Joachim Lafosse",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Cotton Queen",
+    "originalTitle": "",
+    "countries": "Sudan",
+    "languages": "Arabic",
+    "runtime": 94,
+    "year": 2025,
+    "director": "Suzannah Mirghani",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Cairo Station",
+    "originalTitle": "باب الحديد",
+    "countries": "Egypt",
+    "languages": "Arabic",
+    "runtime": 77,
+    "year": 1958,
+    "director": "Youssef Chahine",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Once Upon a Love Story",
+    "originalTitle": "",
+    "countries": "Vietnam",
+    "languages": "Vietnamese",
+    "runtime": 135,
+    "year": 2024,
+    "director": "Phan Dang Di",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Inside the Wolf",
+    "originalTitle": "El corazón del lobo",
+    "countries": "Bolivia",
+    "languages": "Spanish",
+    "runtime": 110,
+    "year": 2025,
+    "director": "Kiro Russo",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Romería",
+    "originalTitle": "",
+    "countries": "Spain",
+    "languages": "Spanish",
+    "runtime": 111,
+    "year": 2025,
+    "director": "Carla Simón",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Waiting for Happiness",
+    "originalTitle": "Heremakono",
+    "countries": "Mauritania",
+    "languages": "Arabic, Hassaniya",
+    "runtime": 96,
+    "year": 2002,
+    "director": "Abderrahmane Sissako",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Gloaming in Luomu",
+    "originalTitle": "",
+    "countries": "China",
+    "languages": "Mandarin",
+    "runtime": 99,
+    "year": 2025,
+    "director": "Zhang Lu",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Riverstone",
+    "originalTitle": "",
+    "countries": "Sri Lanka",
+    "languages": "Sinhala",
+    "runtime": 119,
+    "year": 2025,
+    "director": "Lalith Rathnayake",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  },
+  {
+    "title": "Miroirs No. 3",
+    "originalTitle": "",
+    "countries": "Germany",
+    "languages": "German",
+    "runtime": 86,
+    "year": 2025,
+    "director": "Christian Petzold",
+    "category": "",
+    "posterUrl": "",
+    "notes": ""
+  }
+]
+

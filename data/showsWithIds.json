@@ -1,0 +1,3578 @@
+[
+  {
+    "movieTitle": "Mariana's Room / La Chambre de Mariana",
+    "day": 1,
+    "show": 1,
+    "theatre": "Kairali",
+    "time": "10:00 AM",
+    "movieId": "marianas-room"
+  },
+  {
+    "movieTitle": "The Sun Rises on Us All",
+    "day": 1,
+    "show": 2,
+    "theatre": "Kairali",
+    "time": "12:30 PM",
+    "movieId": "the-sun-rises-on-us-all"
+  },
+  {
+    "movieTitle": "Fragments from the East / Doğudan Fragmanlar",
+    "day": 1,
+    "show": 1,
+    "theatre": "Sree",
+    "time": "10:15 AM",
+    "movieId": "fragments-from-the-east"
+  },
+  {
+    "movieTitle": "Untamable / Indomptables",
+    "day": 1,
+    "show": 2,
+    "theatre": "Sree",
+    "time": "12:30 PM",
+    "movieId": "untamable"
+  },
+  {
+    "movieTitle": "Alexandria Again and Forever / Iskandria Kaman wa Kaman",
+    "day": 1,
+    "show": 1,
+    "theatre": "Nila",
+    "time": "10:00 AM",
+    "movieId": "alexandria-again-and-forever"
+  },
+  {
+    "movieTitle": "The Blue Trail / O Último Azul",
+    "day": 1,
+    "show": 2,
+    "theatre": "Nila",
+    "time": "12:15 PM",
+    "movieId": "the-blue-trail"
+  },
+  {
+    "movieTitle": "The Virgin of the Quarry Lake / La virgen de la tosquera",
+    "day": 1,
+    "show": 1,
+    "theatre": "Kalabhavan",
+    "time": "10:00 AM",
+    "movieId": "the-virgin-of-the-quarry-lake"
+  },
+  {
+    "movieTitle": "Nino",
+    "day": 1,
+    "show": 2,
+    "theatre": "Kalabhavan",
+    "time": "12:00 Noon",
+    "movieId": "nino"
+  },
+  {
+    "movieTitle": "Beef / Ruido",
+    "day": 1,
+    "show": 1,
+    "theatre": "Tagore",
+    "time": "9:30 AM",
+    "movieId": "beef"
+  },
+  {
+    "movieTitle": "Chopin, a Sonata in Paris / Chopin, Chopin!",
+    "day": 1,
+    "show": 2,
+    "theatre": "Tagore",
+    "time": "12:00 Noon",
+    "movieId": "chopin-a-sonata-in-paris"
+  },
+  {
+    "movieTitle": "Opening Film – Palestine 36",
+    "day": 1,
+    "show": 1,
+    "theatre": "Nishagandhi",
+    "time": "6:00 PM",
+    "movieId": "opening-film-palestine-36"
+  },
+  {
+    "movieTitle": "Don't Tell Mother / Ammang Haelbeda",
+    "day": 2,
+    "show": 1,
+    "theatre": "Kairali",
+    "time": "9:00 AM",
+    "movieId": "dont-tell-mother"
+  },
+  {
+    "movieTitle": "Black Rabbit, White Rabbit",
+    "day": 2,
+    "show": 2,
+    "theatre": "Kairali",
+    "time": "11:30 AM",
+    "movieId": "black-rabbit-white-rabbit"
+  },
+  {
+    "movieTitle": "Full Plate",
+    "day": 2,
+    "show": 3,
+    "theatre": "Kairali",
+    "time": "3:30 PM",
+    "movieId": "full-plate"
+  },
+  {
+    "movieTitle": "El Conde",
+    "day": 2,
+    "show": 4,
+    "theatre": "Kairali",
+    "time": "6:00 PM",
+    "movieId": "el-conde"
+  },
+  {
+    "movieTitle": "Die My Love",
+    "day": 2,
+    "show": 5,
+    "theatre": "Kairali",
+    "time": "8:45 PM",
+    "movieId": "die-my-love"
+  },
+  {
+    "movieTitle": "Whispers in the Dabbas / Nyanyi Sunyi Dalam Rantang",
+    "day": 2,
+    "show": 1,
+    "theatre": "Sree",
+    "time": "9:15 AM",
+    "movieId": "whispers-in-the-dabbas"
+  },
+  {
+    "movieTitle": "Magellan / Magalhães",
+    "day": 2,
+    "show": 2,
+    "theatre": "Sree",
+    "time": "11:15 AM",
+    "movieId": "magellan"
+  },
+  {
+    "movieTitle": "Celebration of Death / Chavu Kalyanam",
+    "day": 2,
+    "show": 3,
+    "theatre": "Sree",
+    "time": "3:15 PM",
+    "movieId": "celebration-of-death"
+  },
+  {
+    "movieTitle": "Secret of a Mountain Serpent",
+    "day": 2,
+    "show": 4,
+    "theatre": "Sree",
+    "time": "6:15 PM",
+    "movieId": "secret-of-a-mountain-serpent"
+  },
+  {
+    "movieTitle": "Nirmalyam",
+    "day": 2,
+    "show": 5,
+    "theatre": "Sree",
+    "time": "8:30 PM",
+    "movieId": "nirmalyam"
+  },
+  {
+    "movieTitle": "Days of Santiago / Días de Santiago",
+    "day": 2,
+    "show": 1,
+    "theatre": "Nila",
+    "time": "9:30 AM",
+    "movieId": "days-of-santiago"
+  },
+  {
+    "movieTitle": "Black Tea",
+    "day": 2,
+    "show": 2,
+    "theatre": "Nila",
+    "time": "11:45 AM",
+    "movieId": "black-tea"
+  },
+  {
+    "movieTitle": "In Conversation with Mohammad Rasoulouf",
+    "day": 2,
+    "show": 3,
+    "theatre": "Nila",
+    "time": "",
+    "movieId": "in-conversation-with-mohammad-rasoulouf"
+  },
+  {
+    "movieTitle": "Glorious Ashes / Tro tàn rực rỡ",
+    "day": 2,
+    "show": 4,
+    "theatre": "Nila",
+    "time": "6:00 PM",
+    "movieId": "glorious-ashes"
+  },
+  {
+    "movieTitle": "8½ / Otto e mezzo",
+    "day": 2,
+    "show": 5,
+    "theatre": "Nila",
+    "time": "8:30 PM",
+    "movieId": "8-half"
+  },
+  {
+    "movieTitle": "Two Seasons, Two Strangers / Tabi to Hibi",
+    "day": 2,
+    "show": 1,
+    "theatre": "Kalabhavan",
+    "time": "9:15 AM",
+    "movieId": "two-seasons-two-strangers"
+  },
+  {
+    "movieTitle": "Songs of Forgotten Trees",
+    "day": 2,
+    "show": 2,
+    "theatre": "Kalabhavan",
+    "time": "12:15 PM",
+    "movieId": "songs-of-forgotten-trees"
+  },
+  {
+    "movieTitle": "Desire / Moham",
+    "day": 2,
+    "show": 3,
+    "theatre": "Kalabhavan",
+    "time": "3:00 PM",
+    "movieId": "desire"
+  },
+  {
+    "movieTitle": "Ambrosia",
+    "day": 2,
+    "show": 4,
+    "theatre": "Kalabhavan",
+    "time": "6:00 PM",
+    "movieId": "ambrosia"
+  },
+  {
+    "movieTitle": "Father Mother Sister Brother",
+    "day": 2,
+    "show": 5,
+    "theatre": "Kalabhavan",
+    "time": "8:15 PM",
+    "movieId": "father-mother-sister-brother"
+  },
+  {
+    "movieTitle": "Hiedra / The Ivy",
+    "day": 2,
+    "show": 1,
+    "theatre": "Tagore",
+    "time": "9:00 AM",
+    "movieId": "hiedra"
+  },
+  {
+    "movieTitle": "If on a Winter's Night / Khidki Gaav",
+    "day": 2,
+    "show": 2,
+    "theatre": "Tagore",
+    "time": "11:00 AM",
+    "movieId": "if-on-a-winters-night"
+  },
+  {
+    "movieTitle": "Before The Body / Antes del cuerpo",
+    "day": 2,
+    "show": 3,
+    "theatre": "Tagore",
+    "time": "3:00 PM",
+    "movieId": "before-the-body"
+  },
+  {
+    "movieTitle": "Papa Buka",
+    "day": 2,
+    "show": 4,
+    "theatre": "Tagore",
+    "time": "6:00 PM",
+    "movieId": "papa-buka"
+  },
+  {
+    "movieTitle": "Franz",
+    "day": 2,
+    "show": 5,
+    "theatre": "Tagore",
+    "time": "8:30 PM",
+    "movieId": "franz"
+  },
+  {
+    "movieTitle": "No Other Choice",
+    "day": 2,
+    "show": 3,
+    "theatre": "Nishagandhi",
+    "time": "6:00 PM",
+    "movieId": "no-other-choice"
+  },
+  {
+    "movieTitle": "Eagles of the Republic / Les Aigles de la République",
+    "day": 2,
+    "show": 4,
+    "theatre": "Nishagandhi",
+    "time": "8:45 PM",
+    "movieId": "eagles-of-the-republic"
+  },
+  {
+    "movieTitle": "Alpha",
+    "day": 2,
+    "show": 5,
+    "theatre": "Nishagandhi",
+    "time": "11:00 PM",
+    "movieId": "alpha"
+  },
+  {
+    "movieTitle": "Dreams (Sex Love) / Drømmer",
+    "day": 2,
+    "show": 1,
+    "theatre": "Ariesplex-1",
+    "time": "9:15 AM",
+    "movieId": "dreams-sex-love"
+  },
+  {
+    "movieTitle": "A Poet / Un Poeta",
+    "day": 2,
+    "show": 2,
+    "theatre": "Ariesplex-1",
+    "time": "11:45 AM",
+    "movieId": "a-poet"
+  },
+  {
+    "movieTitle": "Once Upon a Time in Gaza",
+    "day": 2,
+    "show": 3,
+    "theatre": "Ariesplex-1",
+    "time": "3:00 PM",
+    "movieId": "once-upon-a-time-in-gaza"
+  },
+  {
+    "movieTitle": "Romería",
+    "day": 2,
+    "show": 4,
+    "theatre": "Ariesplex-1",
+    "time": "6:00 PM",
+    "movieId": "romera"
+  },
+  {
+    "movieTitle": "If I Had Legs I’d Kick You",
+    "day": 2,
+    "show": 5,
+    "theatre": "Ariesplex-1",
+    "time": "8:30 PM",
+    "movieId": "if-i-had-legs-id-kick-you"
+  },
+  {
+    "movieTitle": "Chorus",
+    "day": 2,
+    "show": 1,
+    "theatre": "Ariesplex-4",
+    "time": "9:30 AM",
+    "movieId": "chorus"
+  },
+  {
+    "movieTitle": "Girls on Wire / Xiang fei de nü hai",
+    "day": 2,
+    "show": 2,
+    "theatre": "Ariesplex-4",
+    "time": "12:00 PM",
+    "movieId": "girls-on-wire"
+  },
+  {
+    "movieTitle": "The Cloud-Capped Star / Meghe Dhaka Tara",
+    "day": 2,
+    "show": 3,
+    "theatre": "Ariesplex-4",
+    "time": "3:00 PM",
+    "movieId": "the-cloud-capped-star"
+  },
+  {
+    "movieTitle": "The Girl Who Stole Time",
+    "day": 2,
+    "show": 4,
+    "theatre": "Ariesplex-4",
+    "time": "6:00 PM",
+    "movieId": "the-girl-who-stole-time"
+  },
+  {
+    "movieTitle": "Bamako",
+    "day": 2,
+    "show": 5,
+    "theatre": "Ariesplex-4",
+    "time": "8:15 PM",
+    "movieId": "bamako"
+  },
+  {
+    "movieTitle": "Portraits in a Sea of Lies / Retratos en un mar de mentiras",
+    "day": 2,
+    "show": 1,
+    "theatre": "Ariesplex-6",
+    "time": "9:30 AM",
+    "movieId": "portraits-in-a-sea-of-lies"
+  },
+  {
+    "movieTitle": "Bitter Gold / Oro Amargo",
+    "day": 2,
+    "show": 2,
+    "theatre": "Ariesplex-6",
+    "time": "11:30 AM",
+    "movieId": "bitter-gold"
+  },
+  {
+    "movieTitle": "Mirrors No. 3",
+    "day": 2,
+    "show": 3,
+    "theatre": "Ariesplex-6",
+    "time": "3:00 PM",
+    "movieId": "mirrors-no-3"
+  },
+  {
+    "movieTitle": "Enzo",
+    "day": 2,
+    "show": 4,
+    "theatre": "Ariesplex-6",
+    "time": "6:00 PM",
+    "movieId": "enzo"
+  },
+  {
+    "movieTitle": "Arco",
+    "day": 2,
+    "show": 5,
+    "theatre": "Ariesplex-6",
+    "time": "8:30 PM",
+    "movieId": "arco"
+  },
+  {
+    "movieTitle": "EBB",
+    "day": 2,
+    "show": 1,
+    "theatre": "New-1",
+    "time": "9:15 AM",
+    "movieId": "ebb"
+  },
+  {
+    "movieTitle": "THEATRE",
+    "day": 2,
+    "show": 2,
+    "theatre": "New-1",
+    "time": "11:45 AM",
+    "movieId": "theatre"
+  },
+  {
+    "movieTitle": "OAK / Oru Apasarpaka Katha",
+    "day": 2,
+    "show": 3,
+    "theatre": "New-1",
+    "time": "2:30 PM",
+    "movieId": "oak"
+  },
+  {
+    "movieTitle": "Pyre",
+    "day": 2,
+    "show": 4,
+    "theatre": "New-1",
+    "time": "6:00 PM",
+    "movieId": "pyre"
+  },
+  {
+    "movieTitle": "Amrum",
+    "day": 2,
+    "show": 5,
+    "theatre": "New-1",
+    "time": "8:30 PM",
+    "movieId": "amrum"
+  },
+  {
+    "movieTitle": "A Sad and a Beautiful World",
+    "day": 2,
+    "show": 1,
+    "theatre": "New-2",
+    "time": "9:30 AM",
+    "movieId": "a-sad-and-a-beautiful-world"
+  },
+  {
+    "movieTitle": "Don’t Cry, Butterfly / Mưa trên cánh bướm",
+    "day": 2,
+    "show": 2,
+    "theatre": "New-2",
+    "time": "12:00 PM",
+    "movieId": "dont-cry-butterfly"
+  },
+  {
+    "movieTitle": "Refugiado",
+    "day": 2,
+    "show": 3,
+    "theatre": "New-2",
+    "time": "3:00 PM",
+    "movieId": "refugiado"
+  },
+  {
+    "movieTitle": "10 + 4 / Dah be alaveh chahar",
+    "day": 2,
+    "show": 4,
+    "theatre": "New-2",
+    "time": "6:00 PM",
+    "movieId": "10-4"
+  },
+  {
+    "movieTitle": "Tiger Bay",
+    "day": 2,
+    "show": 5,
+    "theatre": "New-2",
+    "time": "8:15 PM",
+    "movieId": "tiger-bay"
+  },
+  {
+    "movieTitle": "Quemadura China / Chinese Burn",
+    "day": 2,
+    "show": 1,
+    "theatre": "New-3",
+    "time": "9:15 AM",
+    "movieId": "quemadura-china"
+  },
+  {
+    "movieTitle": "Abouna",
+    "day": 2,
+    "show": 2,
+    "theatre": "New-3",
+    "time": "11:15 AM",
+    "movieId": "abouna"
+  },
+  {
+    "movieTitle": "Closely Watched Trains / Ostře sledované vlaky",
+    "day": 2,
+    "show": 3,
+    "theatre": "New-3",
+    "time": "3:15 PM",
+    "movieId": "closely-watched-trains"
+  },
+  {
+    "movieTitle": "Eva",
+    "day": 2,
+    "show": 4,
+    "theatre": "New-3",
+    "time": "6:15 PM",
+    "movieId": "eva"
+  },
+  {
+    "movieTitle": "Sta. Nina",
+    "day": 2,
+    "show": 5,
+    "theatre": "New-3",
+    "time": "8:15 PM",
+    "movieId": "sta-nina"
+  },
+  {
+    "movieTitle": "The Currents / Las Corrientes",
+    "day": 2,
+    "show": 1,
+    "theatre": "Ajantha",
+    "time": "9:30 AM",
+    "movieId": "the-currents"
+  },
+  {
+    "movieTitle": "The History of Sound",
+    "day": 2,
+    "show": 2,
+    "theatre": "Ajantha",
+    "time": "11:45 AM",
+    "movieId": "the-history-of-sound"
+  },
+  {
+    "movieTitle": "Little Trouble Girls / Kaj ti je deklica",
+    "day": 2,
+    "show": 3,
+    "theatre": "Ajantha",
+    "time": "3:15 PM",
+    "movieId": "little-trouble-girls"
+  },
+  {
+    "movieTitle": "Duse",
+    "day": 2,
+    "show": 4,
+    "theatre": "Ajantha",
+    "time": "6:00 PM",
+    "movieId": "duse"
+  },
+  {
+    "movieTitle": "A Poet: Unconcealed Poetry / Puisi Tak Terkuburkan",
+    "day": 2,
+    "show": 5,
+    "theatre": "Ajantha",
+    "time": "8:30 PM",
+    "movieId": "a-poet-unconcealed-poetry"
+  },
+  {
+    "movieTitle": "Broken Voices / SBORMISTR",
+    "day": 2,
+    "show": 1,
+    "theatre": "Sree Padmanabha",
+    "time": "9:30 AM",
+    "movieId": "broken-voices"
+  },
+  {
+    "movieTitle": "The Mastermind / Le stratège",
+    "day": 2,
+    "show": 2,
+    "theatre": "Sree Padmanabha",
+    "time": "11:30 AM",
+    "movieId": "the-mastermind"
+  },
+  {
+    "movieTitle": "Where the Wind Comes From",
+    "day": 2,
+    "show": 3,
+    "theatre": "Sree Padmanabha",
+    "time": "3:00 PM",
+    "movieId": "where-the-wind-comes-from"
+  },
+  {
+    "movieTitle": "The Mysterious Gaze of the Flamingo / La misteriosa mirada del flamenco",
+    "day": 2,
+    "show": 4,
+    "theatre": "Sree Padmanabha",
+    "time": "6:00 PM",
+    "movieId": "the-mysterious-gaze-of-the-flamingo"
+  },
+  {
+    "movieTitle": "My Father’s Shadow",
+    "day": 2,
+    "show": 5,
+    "theatre": "Sree Padmanabha",
+    "time": "8:30 PM",
+    "movieId": "my-fathers-shadow"
+  },
+  {
+    "movieTitle": "Cherri",
+    "day": 2,
+    "show": 1,
+    "theatre": "Kripa-1",
+    "time": "9:15 AM",
+    "movieId": "cherri"
+  },
+  {
+    "movieTitle": "Homebound",
+    "day": 2,
+    "show": 2,
+    "theatre": "Kripa-1",
+    "time": "11:15 AM",
+    "movieId": "homebound"
+  },
+  {
+    "movieTitle": "The Chronology of Water",
+    "day": 2,
+    "show": 3,
+    "theatre": "Kripa-1",
+    "time": "2:30 PM",
+    "movieId": "the-chronology-of-water"
+  },
+  {
+    "movieTitle": "AWAIT / കാത്തിരിപ്പ്",
+    "day": 2,
+    "show": 4,
+    "theatre": "Kripa-1",
+    "time": "6:00 PM",
+    "movieId": "await"
+  },
+  {
+    "movieTitle": "Cuerpo Celeste",
+    "day": 3,
+    "show": 1,
+    "theatre": "Kairali",
+    "time": "9:30 AM",
+    "movieId": "cuerpo-celeste"
+  },
+  {
+    "movieTitle": "Mirage / Morichika",
+    "day": 3,
+    "show": 2,
+    "theatre": "Kairali",
+    "time": "11:30 AM",
+    "movieId": "mirage"
+  },
+  {
+    "movieTitle": "Cinema Jazireh",
+    "day": 3,
+    "show": 3,
+    "theatre": "Kairali",
+    "time": "3:00 PM",
+    "movieId": "cinema-jazireh"
+  },
+  {
+    "movieTitle": "All The Living",
+    "day": 3,
+    "show": 4,
+    "theatre": "Kairali",
+    "time": "6:00 PM",
+    "movieId": "all-the-living"
+  },
+  {
+    "movieTitle": "The Mysterious Gaze of the Flamingo / La mirada misteriosa del flamenco",
+    "day": 3,
+    "show": 5,
+    "theatre": "Kairali",
+    "time": "8:15 PM",
+    "movieId": "the-mysterious-gaze-of-the-flamingo"
+  },
+  {
+    "movieTitle": "The Little Sister / La Petite Dernière",
+    "day": 3,
+    "show": 1,
+    "theatre": "Sree",
+    "time": "9:15 AM",
+    "movieId": "the-little-sister"
+  },
+  {
+    "movieTitle": "Stolen Skies / Anyarude Aakaashangal",
+    "day": 3,
+    "show": 2,
+    "theatre": "Sree",
+    "time": "11:30 AM",
+    "movieId": "stolen-skies"
+  },
+  {
+    "movieTitle": "Naseem",
+    "day": 3,
+    "show": 3,
+    "theatre": "Sree",
+    "time": "3:00 PM",
+    "movieId": "naseem"
+  },
+  {
+    "movieTitle": "The Sea",
+    "day": 3,
+    "show": 4,
+    "theatre": "Sree",
+    "time": "6:15 PM",
+    "movieId": "the-sea"
+  },
+  {
+    "movieTitle": "Riverstone",
+    "day": 3,
+    "show": 5,
+    "theatre": "Sree",
+    "time": "8:15 PM",
+    "movieId": "riverstone"
+  },
+  {
+    "movieTitle": "Girl / Nuhái",
+    "day": 3,
+    "show": 1,
+    "theatre": "Nila",
+    "time": "9:15 AM",
+    "movieId": "girl"
+  },
+  {
+    "movieTitle": "Timbuktu",
+    "day": 3,
+    "show": 2,
+    "theatre": "Nila",
+    "time": "11:45 AM",
+    "movieId": "timbuktu"
+  },
+  {
+    "movieTitle": "Masterclass by Pablo Larrain",
+    "day": 3,
+    "show": 3,
+    "theatre": "Nila",
+    "time": "",
+    "movieId": "masterclass-by-pablo-larrain"
+  },
+  {
+    "movieTitle": "Vanaprastham",
+    "day": 3,
+    "show": 4,
+    "theatre": "Nila",
+    "time": "5:30 PM",
+    "movieId": "vanaprastham"
+  },
+  {
+    "movieTitle": "Blind Chance / Przypadek",
+    "day": 3,
+    "show": 5,
+    "theatre": "Nila",
+    "time": "8:30 PM",
+    "movieId": "blind-chance"
+  },
+  {
+    "movieTitle": "Flames / Laptein",
+    "day": 3,
+    "show": 1,
+    "theatre": "Kalabhavan",
+    "time": "9:30 AM",
+    "movieId": "flames"
+  },
+  {
+    "movieTitle": "Silent Friend / Stille Freundin",
+    "day": 3,
+    "show": 2,
+    "theatre": "Kalabhavan",
+    "time": "11:30 AM",
+    "movieId": "silent-friend"
+  },
+  {
+    "movieTitle": "Shadowbox / Baksho Bondi",
+    "day": 3,
+    "show": 3,
+    "theatre": "Kalabhavan",
+    "time": "3:00 PM",
+    "movieId": "shadowbox"
+  },
+  {
+    "movieTitle": "The Remnant / Sheshippu",
+    "day": 3,
+    "show": 4,
+    "theatre": "Kalabhavan",
+    "time": "6:00 PM",
+    "movieId": "the-remnant"
+  },
+  {
+    "movieTitle": "White Snail",
+    "day": 3,
+    "show": 5,
+    "theatre": "Kalabhavan",
+    "time": "6:00 PM",
+    "movieId": "white-snail"
+  },
+  {
+    "movieTitle": "Yen and Ai-Lee / Xiao Yan Yu Wu Ai-Lee",
+    "day": 3,
+    "show": 1,
+    "theatre": "Tagore",
+    "time": "9:30 AM",
+    "movieId": "yen-and-ai-lee"
+  },
+  {
+    "movieTitle": "Omaha",
+    "day": 3,
+    "show": 2,
+    "theatre": "Tagore",
+    "time": "12:15 PM",
+    "movieId": "omaha"
+  },
+  {
+    "movieTitle": "The Settlement",
+    "day": 3,
+    "show": 3,
+    "theatre": "Tagore",
+    "time": "2:15 PM",
+    "movieId": "the-settlement"
+  },
+  {
+    "movieTitle": "Kontinental 25",
+    "day": 3,
+    "show": 4,
+    "theatre": "Tagore",
+    "time": "6:00 PM",
+    "movieId": "kontinental-25"
+  },
+  {
+    "movieTitle": "A Useful Ghost / Pee Chai Dai Ka",
+    "day": 3,
+    "show": 5,
+    "theatre": "Tagore",
+    "time": "8:30 PM",
+    "movieId": "a-useful-ghost"
+  },
+  {
+    "movieTitle": "Sentimental Value / Affeksjonsverdi",
+    "day": 3,
+    "show": 3,
+    "theatre": "Nishagandhi",
+    "time": "6:30 PM",
+    "movieId": "sentimental-value"
+  },
+  {
+    "movieTitle": "It Was Just an Accident",
+    "day": 3,
+    "show": 4,
+    "theatre": "Nishagandhi",
+    "time": "9:00 PM",
+    "movieId": "it-was-just-an-accident"
+  },
+  {
+    "movieTitle": "Jaws",
+    "day": 3,
+    "show": 5,
+    "theatre": "Nishagandhi",
+    "time": "12:00 AM",
+    "movieId": "jaws"
+  },
+  {
+    "movieTitle": "Six Days in Spring / Six jours, ce printemps-là",
+    "day": 3,
+    "show": 1,
+    "theatre": "Ariesplex-1",
+    "time": "9:30 AM",
+    "movieId": "six-days-in-spring"
+  },
+  {
+    "movieTitle": "The Things You Kill / Öldürdüğün Şeyler",
+    "day": 3,
+    "show": 2,
+    "theatre": "Ariesplex-1",
+    "time": "11:30 AM",
+    "movieId": "the-things-you-kill"
+  },
+  {
+    "movieTitle": "All That’s Left of You / اللي باقي منك",
+    "day": 3,
+    "show": 3,
+    "theatre": "Ariesplex-1",
+    "time": "3:00 PM",
+    "movieId": "all-thats-left-of-you"
+  },
+  {
+    "movieTitle": "Our Father / Oče naš",
+    "day": 3,
+    "show": 4,
+    "theatre": "Ariesplex-1",
+    "time": "6:00 PM",
+    "movieId": "our-father"
+  },
+  {
+    "movieTitle": "Resurrection",
+    "day": 3,
+    "show": 5,
+    "theatre": "Ariesplex-1",
+    "time": "8:00 PM",
+    "movieId": "resurrection"
+  },
+  {
+    "movieTitle": "Birdman Tale / Aku Ingin Menciummu Sekali Saja",
+    "day": 3,
+    "show": 1,
+    "theatre": "Ariesplex-4",
+    "time": "9:30 AM",
+    "movieId": "birdman-tale"
+  },
+  {
+    "movieTitle": "Alpha",
+    "day": 3,
+    "show": 2,
+    "theatre": "Ariesplex-4",
+    "time": "11:30 AM",
+    "movieId": "alpha"
+  },
+  {
+    "movieTitle": "Reedland / Rietland",
+    "day": 3,
+    "show": 3,
+    "theatre": "Ariesplex-4",
+    "time": "3:00 PM",
+    "movieId": "reedland"
+  },
+  {
+    "movieTitle": "Aguirre, Wrath of God / Aguirre, der Zorn Gottes",
+    "day": 3,
+    "show": 4,
+    "theatre": "Ariesplex-4",
+    "time": "6:00 PM",
+    "movieId": "aguirre-wrath-of-god"
+  },
+  {
+    "movieTitle": "What Does That Nature Say to You",
+    "day": 3,
+    "show": 5,
+    "theatre": "Ariesplex-4",
+    "time": "8:15 PM",
+    "movieId": "what-does-that-nature-say-to-you"
+  },
+  {
+    "movieTitle": "The Tree House / Nhà Cây",
+    "day": 3,
+    "show": 1,
+    "theatre": "Ariesplex-6",
+    "time": "9:15 AM",
+    "movieId": "the-tree-house"
+  },
+  {
+    "movieTitle": "The Hour of the Furnaces (Part 1) / La hora de los hornos",
+    "day": 3,
+    "show": 3,
+    "theatre": "Ariesplex-6",
+    "time": "3:00 PM",
+    "movieId": "the-hour-of-the-furnaces-part-1"
+  },
+  {
+    "movieTitle": "Moonlight Shadow",
+    "day": 3,
+    "show": 4,
+    "theatre": "Ariesplex-6",
+    "time": "6:00 PM",
+    "movieId": "moonlight-shadow"
+  },
+  {
+    "movieTitle": "Alexandria Again and Forever / Iskandria Kaman wa Kaman",
+    "day": 3,
+    "show": 5,
+    "theatre": "Ariesplex-6",
+    "time": "8:30 PM",
+    "movieId": "alexandria-again-and-forever"
+  },
+  {
+    "movieTitle": "The Coffin / Shavapetti",
+    "day": 3,
+    "show": 1,
+    "theatre": "New-1",
+    "time": "9:15 AM",
+    "movieId": "the-coffin"
+  },
+  {
+    "movieTitle": "Hearth And Home / Alaav",
+    "day": 3,
+    "show": 2,
+    "theatre": "New-1",
+    "time": "12:00 PM",
+    "movieId": "hearth-and-home"
+  },
+  {
+    "movieTitle": "Blue Velvet",
+    "day": 3,
+    "show": 3,
+    "theatre": "New-1",
+    "time": "3:00 PM",
+    "movieId": "blue-velvet"
+  },
+  {
+    "movieTitle": "Shape of Momo",
+    "day": 3,
+    "show": 4,
+    "theatre": "New-1",
+    "time": "6:00 PM",
+    "movieId": "shape-of-momo"
+  },
+  {
+    "movieTitle": "Cotton Queen",
+    "day": 3,
+    "show": 5,
+    "theatre": "New-1",
+    "time": "8:30 PM",
+    "movieId": "cotton-queen"
+  },
+  {
+    "movieTitle": "Annie Hall",
+    "day": 3,
+    "show": 1,
+    "theatre": "New-2",
+    "time": "9:30 AM",
+    "movieId": "annie-hall"
+  },
+  {
+    "movieTitle": "Chemmeen",
+    "day": 3,
+    "show": 2,
+    "theatre": "New-2",
+    "time": "11:30 AM",
+    "movieId": "chemmeen"
+  },
+  {
+    "movieTitle": "Two Prosecutors / Zwei Staatsanwälte",
+    "day": 3,
+    "show": 3,
+    "theatre": "New-2",
+    "time": "3:00 PM",
+    "movieId": "two-prosecutors"
+  },
+  {
+    "movieTitle": "Cairo Station / Bab el Hadid",
+    "day": 3,
+    "show": 4,
+    "theatre": "New-2",
+    "time": "6:00 PM",
+    "movieId": "cairo-station"
+  },
+  {
+    "movieTitle": "Subarnarekha / সুবৰ্ণৰেখা",
+    "day": 3,
+    "show": 5,
+    "theatre": "New-2",
+    "time": "8:00 PM",
+    "movieId": "subarnarekha"
+  },
+  {
+    "movieTitle": "The President’s Cake",
+    "day": 3,
+    "show": 1,
+    "theatre": "New-3",
+    "time": "9:45 AM",
+    "movieId": "the-presidents-cake"
+  },
+  {
+    "movieTitle": "XXY",
+    "day": 3,
+    "show": 2,
+    "theatre": "New-3",
+    "time": "12:15 PM",
+    "movieId": "xxy"
+  },
+  {
+    "movieTitle": "Lucky Lu",
+    "day": 3,
+    "show": 3,
+    "theatre": "New-3",
+    "time": "3:15 PM",
+    "movieId": "lucky-lu"
+  },
+  {
+    "movieTitle": "Allah Is Not Obliged / Allah n’est pas obligé",
+    "day": 3,
+    "show": 4,
+    "theatre": "New-3",
+    "time": "6:15 PM",
+    "movieId": "allah-is-not-obliged"
+  },
+  {
+    "movieTitle": "Parviz",
+    "day": 3,
+    "show": 5,
+    "theatre": "New-3",
+    "time": "8:30 PM",
+    "movieId": "parviz"
+  },
+  {
+    "movieTitle": "Young Mothers / Jeunes mères",
+    "day": 3,
+    "show": 1,
+    "theatre": "Ajantha",
+    "time": "9:30 AM",
+    "movieId": "young-mothers"
+  },
+  {
+    "movieTitle": "Bugonia",
+    "day": 3,
+    "show": 2,
+    "theatre": "Ajantha",
+    "time": "12:00 PM",
+    "movieId": "bugonia"
+  },
+  {
+    "movieTitle": "Life of a Phallus",
+    "day": 3,
+    "show": 3,
+    "theatre": "Ajantha",
+    "time": "3:15 PM",
+    "movieId": "life-of-a-phallus"
+  },
+  {
+    "movieTitle": "Kissing Bug / Vinchuca",
+    "day": 3,
+    "show": 4,
+    "theatre": "Ajantha",
+    "time": "6:00 PM",
+    "movieId": "kissing-bug"
+  },
+  {
+    "movieTitle": "Hijo Mayor",
+    "day": 3,
+    "show": 5,
+    "theatre": "Ajantha",
+    "time": "8:30 PM",
+    "movieId": "hijo-mayor"
+  },
+  {
+    "movieTitle": "The Banquet of Primal Love / Aadi snehathinte virunnu mesha",
+    "day": 3,
+    "show": 1,
+    "theatre": "Kripa-1",
+    "time": "9:30 AM",
+    "movieId": "the-banquet-of-primal-love"
+  },
+  {
+    "movieTitle": "Tiger's Pond / Vaghachipani",
+    "day": 3,
+    "show": 2,
+    "theatre": "Kripa-1",
+    "time": "11:30 AM",
+    "movieId": "tigers-pond"
+  },
+  {
+    "movieTitle": "Girl and the Fools Parade / Pennum Porattum",
+    "day": 3,
+    "show": 3,
+    "theatre": "Kripa-1",
+    "time": "2:30 PM",
+    "movieId": "girl-and-the-fools-parade"
+  },
+  {
+    "movieTitle": "Sirat",
+    "day": 3,
+    "show": 4,
+    "theatre": "Kripa-1",
+    "time": "6:00 PM",
+    "movieId": "sirat"
+  },
+  {
+    "movieTitle": "Sound of Falling / In die Sonne schauen",
+    "day": 3,
+    "show": 5,
+    "theatre": "Kripa-1",
+    "time": "8:30 PM",
+    "movieId": "sound-of-falling"
+  },
+  {
+    "movieTitle": "Ambrosia",
+    "day": 4,
+    "show": 1,
+    "theatre": "Kairali",
+    "time": "9:30 AM",
+    "movieId": "ambrosia"
+  },
+  {
+    "movieTitle": "Two Seasons, Two Strangers / Tabi to Hibi",
+    "day": 4,
+    "show": 2,
+    "theatre": "Kairali",
+    "time": "12:00 PM",
+    "movieId": "two-seasons-two-strangers"
+  },
+  {
+    "movieTitle": "Songs of Forgotten Trees",
+    "day": 4,
+    "show": 3,
+    "theatre": "Kairali",
+    "time": "3:00 PM",
+    "movieId": "songs-of-forgotten-trees"
+  },
+  {
+    "movieTitle": "Desire / Moham",
+    "day": 4,
+    "show": 4,
+    "theatre": "Kairali",
+    "time": "6:00 PM",
+    "movieId": "desire"
+  },
+  {
+    "movieTitle": "Yes",
+    "day": 4,
+    "show": 5,
+    "theatre": "Kairali",
+    "time": "8:45 PM",
+    "movieId": "yes"
+  },
+  {
+    "movieTitle": "DJ Ahmet",
+    "day": 4,
+    "show": 1,
+    "theatre": "Sree",
+    "time": "9:15 AM",
+    "movieId": "dj-ahmet"
+  },
+  {
+    "movieTitle": "OAK / Oru Apasarpaka Katha",
+    "day": 4,
+    "show": 2,
+    "theatre": "Sree",
+    "time": "11:45 AM",
+    "movieId": "oak"
+  },
+  {
+    "movieTitle": "Girls on Wire / Xiang fei de nü hai",
+    "day": 4,
+    "show": 3,
+    "theatre": "Sree",
+    "time": "3:00 PM",
+    "movieId": "girls-on-wire"
+  },
+  {
+    "movieTitle": "Battleship Potemkin / Броненосец Потёмкин",
+    "day": 4,
+    "show": 4,
+    "theatre": "Sree",
+    "time": "6:30 PM",
+    "movieId": "battleship-potemkin"
+  },
+  {
+    "movieTitle": "Chopin, a Sonata in Paris / Chopin, Chopin!",
+    "day": 4,
+    "show": 5,
+    "theatre": "Sree",
+    "time": "8:30 PM",
+    "movieId": "chopin-a-sonata-in-paris"
+  },
+  {
+    "movieTitle": "Life on Earth / La Vie sur Terre",
+    "day": 4,
+    "show": 1,
+    "theatre": "Nila",
+    "time": "9:30 AM",
+    "movieId": "life-on-earth"
+  },
+  {
+    "movieTitle": "Little Trouble Girls / Kaj ti je deklica",
+    "day": 4,
+    "show": 2,
+    "theatre": "Nila",
+    "time": "11:45 AM",
+    "movieId": "little-trouble-girls"
+  },
+  {
+    "movieTitle": "Aravindan Memorial Lecture: Abderrahmane Sissako",
+    "day": 4,
+    "show": 3,
+    "theatre": "Nila",
+    "time": "3:00 PM",
+    "movieId": null
+  },
+  {
+    "movieTitle": "When Morning Comes",
+    "day": 4,
+    "show": 4,
+    "theatre": "Nila",
+    "time": "6:00 PM",
+    "movieId": "when-morning-comes"
+  },
+  {
+    "movieTitle": "Breathless / À bout de souffle",
+    "day": 4,
+    "show": 5,
+    "theatre": "Nila",
+    "time": "8:15 PM",
+    "movieId": "breathless"
+  },
+  {
+    "movieTitle": "Await",
+    "day": 4,
+    "show": 1,
+    "theatre": "Kalabhavan",
+    "time": "9:15 AM",
+    "movieId": "await"
+  },
+  {
+    "movieTitle": "The Love That Remains / Ástin sem eftir er",
+    "day": 4,
+    "show": 2,
+    "theatre": "Kalabhavan",
+    "time": "11:30 AM",
+    "movieId": "the-love-that-remains"
+  },
+  {
+    "movieTitle": "The Currents / Las Corrientes",
+    "day": 4,
+    "show": 3,
+    "theatre": "Kalabhavan",
+    "time": "3:00 PM",
+    "movieId": "the-currents"
+  },
+  {
+    "movieTitle": "Before The Body / Antes del cuerpo",
+    "day": 4,
+    "show": 4,
+    "theatre": "Kalabhavan",
+    "time": "6:00 PM",
+    "movieId": "before-the-body"
+  },
+  {
+    "movieTitle": "Gloaming in Luomu",
+    "day": 4,
+    "show": 5,
+    "theatre": "Kalabhavan",
+    "time": "8:30 PM",
+    "movieId": "gloaming-in-luomu"
+  },
+  {
+    "movieTitle": "The Sun Rises on Us All",
+    "day": 4,
+    "show": 1,
+    "theatre": "Tagore",
+    "time": "9:00 AM",
+    "movieId": "the-sun-rises-on-us-all"
+  },
+  {
+    "movieTitle": "The Elysian Field / Ha Lyngkha Bneng",
+    "day": 4,
+    "show": 2,
+    "theatre": "Tagore",
+    "time": "11:00 AM",
+    "movieId": "the-elysian-field"
+  },
+  {
+    "movieTitle": "Black Rabbit, White Rabbit",
+    "day": 4,
+    "show": 3,
+    "theatre": "Tagore",
+    "time": "3:00 PM",
+    "movieId": "black-rabbit-white-rabbit"
+  },
+  {
+    "movieTitle": "The President’s Cake",
+    "day": 4,
+    "show": 4,
+    "theatre": "Tagore",
+    "time": "6:00 PM",
+    "movieId": "the-presidents-cake"
+  },
+  {
+    "movieTitle": "Magellan / Magalhães",
+    "day": 4,
+    "show": 5,
+    "theatre": "Tagore",
+    "time": "8:30 PM",
+    "movieId": "magellan"
+  },
+  {
+    "movieTitle": "If I Had Legs I’d Kick You",
+    "day": 4,
+    "show": 1,
+    "theatre": "Nishagandhi",
+    "time": "9:30 AM",
+    "movieId": "if-i-had-legs-id-kick-you"
+  },
+  {
+    "movieTitle": "Sirat",
+    "day": 4,
+    "show": 2,
+    "theatre": "Nishagandhi",
+    "time": "12:00 PM",
+    "movieId": "sirat"
+  },
+  {
+    "movieTitle": "The Secret Agent / O Agente Secreto",
+    "day": 4,
+    "show": 3,
+    "theatre": "Nishagandhi",
+    "time": "3:00 PM",
+    "movieId": "the-secret-agent"
+  },
+  {
+    "movieTitle": "If I Had Legs I’d Kick You",
+    "day": 4,
+    "show": 4,
+    "theatre": "Nishagandhi",
+    "time": "6:00 PM",
+    "movieId": "if-i-had-legs-id-kick-you"
+  },
+  {
+    "movieTitle": "The Secret Agent / O Agente Secreto",
+    "day": 4,
+    "show": 5,
+    "theatre": "Nishagandhi",
+    "time": "8:45 PM",
+    "movieId": "the-secret-agent"
+  },
+  {
+    "movieTitle": "The Girl Who Stole Time",
+    "day": 4,
+    "show": 1,
+    "theatre": "Ariesplex-1",
+    "time": "9:00 AM",
+    "movieId": "the-girl-who-stole-time"
+  },
+  {
+    "movieTitle": "The Mastermind / Le stratège",
+    "day": 4,
+    "show": 2,
+    "theatre": "Ariesplex-1",
+    "time": "11:30 AM",
+    "movieId": "the-mastermind"
+  },
+  {
+    "movieTitle": "A Sad and a Beautiful World",
+    "day": 4,
+    "show": 3,
+    "theatre": "Ariesplex-1",
+    "time": "3:15 PM",
+    "movieId": "a-sad-and-a-beautiful-world"
+  },
+  {
+    "movieTitle": "Pulp Fiction",
+    "day": 4,
+    "show": 4,
+    "theatre": "Ariesplex-1",
+    "time": "6:00 PM",
+    "movieId": "pulp-fiction"
+  },
+  {
+    "movieTitle": "Forastera",
+    "day": 4,
+    "show": 5,
+    "theatre": "Ariesplex-1",
+    "time": "8:30 PM",
+    "movieId": "forastera"
+  },
+  {
+    "movieTitle": "Mariana's Room / La Chambre de Mariana",
+    "day": 4,
+    "show": 1,
+    "theatre": "Ariesplex-4",
+    "time": "9:30 AM",
+    "movieId": "marianas-room"
+  },
+  {
+    "movieTitle": "The Other / El Akhar",
+    "day": 4,
+    "show": 2,
+    "theatre": "Ariesplex-4",
+    "time": "12:00 PM",
+    "movieId": "the-other"
+  },
+  {
+    "movieTitle": "Pyaasa",
+    "day": 4,
+    "show": 3,
+    "theatre": "Ariesplex-4",
+    "time": "3:00 PM",
+    "movieId": "pyaasa"
+  },
+  {
+    "movieTitle": "All the Strength / Todas las fuerzas",
+    "day": 4,
+    "show": 4,
+    "theatre": "Ariesplex-4",
+    "time": "6:00 PM",
+    "movieId": "all-the-strength"
+  },
+  {
+    "movieTitle": "Bhumika",
+    "day": 4,
+    "show": 5,
+    "theatre": "Ariesplex-4",
+    "time": "8:30 PM",
+    "movieId": "bhumika"
+  },
+  {
+    "movieTitle": "The Gold Rush",
+    "day": 4,
+    "show": 1,
+    "theatre": "Ariesplex-6",
+    "time": "9:15 AM",
+    "movieId": "the-gold-rush"
+  },
+  {
+    "movieTitle": "The Girl in the Snow / L’engloutie",
+    "day": 4,
+    "show": 2,
+    "theatre": "Ariesplex-6",
+    "time": "11:30 AM",
+    "movieId": "the-girl-in-the-snow"
+  },
+  {
+    "movieTitle": "Kadavu",
+    "day": 4,
+    "show": 3,
+    "theatre": "Ariesplex-6",
+    "time": "3:00 PM",
+    "movieId": "kadavu"
+  },
+  {
+    "movieTitle": "About Elly / Darbareye Elly",
+    "day": 4,
+    "show": 4,
+    "theatre": "Ariesplex-6",
+    "time": "6:00 PM",
+    "movieId": "about-elly"
+  },
+  {
+    "movieTitle": "The Virgin of the Quarry Lake / La virgen de la tosquera",
+    "day": 4,
+    "show": 5,
+    "theatre": "Ariesplex-6",
+    "time": "8:15 PM",
+    "movieId": "the-virgin-of-the-quarry-lake"
+  },
+  {
+    "movieTitle": "Celebration of Death / Chavu Kalyanam",
+    "day": 4,
+    "show": 1,
+    "theatre": "New-1",
+    "time": "9:30 AM",
+    "movieId": "celebration-of-death"
+  },
+  {
+    "movieTitle": "Kok Kok Kokoook",
+    "day": 4,
+    "show": 2,
+    "theatre": "New-1",
+    "time": "11:30 AM",
+    "movieId": "kok-kok-kokoook"
+  },
+  {
+    "movieTitle": "Aisha Can’t Fly Away",
+    "day": 4,
+    "show": 3,
+    "theatre": "New-1",
+    "time": "3:15 PM",
+    "movieId": "aisha-cant-fly-away"
+  },
+  {
+    "movieTitle": "Stolen Skies / Anyarude Aakaashangal",
+    "day": 4,
+    "show": 4,
+    "theatre": "New-1",
+    "time": "6:00 PM",
+    "movieId": "stolen-skies"
+  },
+  {
+    "movieTitle": "Sundays / Los domingos",
+    "day": 4,
+    "show": 5,
+    "theatre": "New-1",
+    "time": "8:15 PM",
+    "movieId": "sundays"
+  },
+  {
+    "movieTitle": "Arvind Desai Ki Ajeeb Dastaan",
+    "day": 4,
+    "show": 1,
+    "theatre": "New-2",
+    "time": "9:15 AM",
+    "movieId": "arvind-desai-ki-ajeeb-dastaan"
+  },
+  {
+    "movieTitle": "Eva",
+    "day": 4,
+    "show": 2,
+    "theatre": "New-2",
+    "time": "11:30 AM",
+    "movieId": "eva"
+  },
+  {
+    "movieTitle": "Riverstone",
+    "day": 4,
+    "show": 3,
+    "theatre": "New-2",
+    "time": "3:00 PM",
+    "movieId": "riverstone"
+  },
+  {
+    "movieTitle": "Black Tea",
+    "day": 4,
+    "show": 4,
+    "theatre": "New-2",
+    "time": "6:00 PM",
+    "movieId": "black-tea"
+  },
+  {
+    "movieTitle": "Padatha Painkili",
+    "day": 4,
+    "show": 5,
+    "theatre": "New-2",
+    "time": "8:30 PM",
+    "movieId": "padatha-painkili"
+  },
+  {
+    "movieTitle": "Cu Li Never Cries",
+    "day": 4,
+    "show": 1,
+    "theatre": "New-3",
+    "time": "9:30 AM",
+    "movieId": "cu-li-never-cries"
+  },
+  {
+    "movieTitle": "Angel’s Fall",
+    "day": 4,
+    "show": 2,
+    "theatre": "New-3",
+    "time": "12:00 PM",
+    "movieId": "angels-fall"
+  },
+  {
+    "movieTitle": "Kutty Srank",
+    "day": 4,
+    "show": 3,
+    "theatre": "New-3",
+    "time": "3:00 PM",
+    "movieId": "kutty-srank"
+  },
+  {
+    "movieTitle": "The Daughter",
+    "day": 4,
+    "show": 4,
+    "theatre": "New-3",
+    "time": "6:00 PM",
+    "movieId": "the-daughter"
+  },
+  {
+    "movieTitle": "Cría Cuervos",
+    "day": 4,
+    "show": 5,
+    "theatre": "New-3",
+    "time": "8:30 PM",
+    "movieId": "cra-cuervos"
+  },
+  {
+    "movieTitle": "The Salaat",
+    "day": 4,
+    "show": 1,
+    "theatre": "Ajantha",
+    "time": "9:30 AM",
+    "movieId": "the-salaat"
+  },
+  {
+    "movieTitle": "Ambili",
+    "day": 4,
+    "show": 2,
+    "theatre": "Ajantha",
+    "time": "12:00 PM",
+    "movieId": "ambili"
+  },
+  {
+    "movieTitle": "What Does That Nature Say to You",
+    "day": 4,
+    "show": 3,
+    "theatre": "Ajantha",
+    "time": "3:00 PM",
+    "movieId": "what-does-that-nature-say-to-you"
+  },
+  {
+    "movieTitle": "The Volcano",
+    "day": 4,
+    "show": 4,
+    "theatre": "Ajantha",
+    "time": "6:00 PM",
+    "movieId": "the-volcano"
+  },
+  {
+    "movieTitle": "Shava ni Girdhari Lal",
+    "day": 4,
+    "show": 5,
+    "theatre": "Ajantha",
+    "time": "8:30 PM",
+    "movieId": "shava-ni-girdhari-lal"
+  },
+  {
+    "movieTitle": "Alexandrina",
+    "day": 4,
+    "show": 1,
+    "theatre": "Sree Padmanabha",
+    "time": "9:15 AM",
+    "movieId": "alexandrina"
+  },
+  {
+    "movieTitle": "Bamako",
+    "day": 4,
+    "show": 2,
+    "theatre": "Sree Padmanabha",
+    "time": "11:30 AM",
+    "movieId": "bamako"
+  },
+  {
+    "movieTitle": "Father Mother Sister Brother",
+    "day": 4,
+    "show": 3,
+    "theatre": "Sree Padmanabha",
+    "time": "3:00 PM",
+    "movieId": "father-mother-sister-brother"
+  },
+  {
+    "movieTitle": "Jagathgirly",
+    "day": 4,
+    "show": 4,
+    "theatre": "Sree Padmanabha",
+    "time": "6:00 PM",
+    "movieId": "jagathgirly"
+  },
+  {
+    "movieTitle": "El Conde",
+    "day": 4,
+    "show": 5,
+    "theatre": "Sree Padmanabha",
+    "time": "8:15 PM",
+    "movieId": "el-conde"
+  },
+  {
+    "movieTitle": "Hiedra / The Ivy",
+    "day": 4,
+    "show": 1,
+    "theatre": "Kripa-1",
+    "time": "9:30 AM",
+    "movieId": "hiedra"
+  },
+  {
+    "movieTitle": "Nino",
+    "day": 4,
+    "show": 2,
+    "theatre": "Kripa-1",
+    "time": "11:30 AM",
+    "movieId": "nino"
+  },
+  {
+    "movieTitle": "All The Living",
+    "day": 4,
+    "show": 3,
+    "theatre": "Kripa-1",
+    "time": "2:30 PM",
+    "movieId": "all-the-living"
+  },
+  {
+    "movieTitle": "Cherri",
+    "day": 4,
+    "show": 4,
+    "theatre": "Kripa-1",
+    "time": "6:00 PM",
+    "movieId": "cherri"
+  },
+  {
+    "movieTitle": "Bread and Alley / Nan va Koucheh",
+    "day": 4,
+    "show": 5,
+    "theatre": "Kripa-1",
+    "time": "8:15 PM",
+    "movieId": "bread-and-alley"
+  },
+  {
+    "movieTitle": "The Brood",
+    "day": 5,
+    "show": 1,
+    "theatre": "Kairali",
+    "time": "9:00 AM",
+    "movieId": "the-brood"
+  },
+  {
+    "movieTitle": "Ambrosia",
+    "day": 5,
+    "show": 2,
+    "theatre": "Kairali",
+    "time": "11:15 AM",
+    "movieId": "ambrosia"
+  },
+  {
+    "movieTitle": "Cinema Jazireh",
+    "day": 5,
+    "show": 3,
+    "theatre": "Kairali",
+    "time": "3:00 PM",
+    "movieId": "cinema-jazireh"
+  },
+  {
+    "movieTitle": "All The Living",
+    "day": 5,
+    "show": 4,
+    "theatre": "Kairali",
+    "time": "5:45 PM",
+    "movieId": "all-the-living"
+  },
+  {
+    "movieTitle": "The Abyss / The Empire / L’Empire",
+    "day": 5,
+    "show": 5,
+    "theatre": "Kairali",
+    "time": "8:30 PM",
+    "movieId": "the-abyss"
+  },
+  {
+    "movieTitle": "Jaws",
+    "day": 5,
+    "show": 1,
+    "theatre": "Sree",
+    "time": "9:15 AM",
+    "movieId": "jaws"
+  },
+  {
+    "movieTitle": "Desert of Namibia / Namib Naukluft Park",
+    "day": 5,
+    "show": 2,
+    "theatre": "Sree",
+    "time": "11:45 AM",
+    "movieId": "desert-of-namibia"
+  },
+  {
+    "movieTitle": "Nino",
+    "day": 5,
+    "show": 3,
+    "theatre": "Sree",
+    "time": "3:30 PM",
+    "movieId": "nino"
+  },
+  {
+    "movieTitle": "Cu Li Never Cries",
+    "day": 5,
+    "show": 4,
+    "theatre": "Sree",
+    "time": "6:30 PM",
+    "movieId": "cu-li-never-cries"
+  },
+  {
+    "movieTitle": "If on a Winter’s Night / Windows to the Sky",
+    "day": 5,
+    "show": 5,
+    "theatre": "Sree",
+    "time": "9:00 PM",
+    "movieId": "if-on-a-winters-night"
+  },
+  {
+    "movieTitle": "The Hours of Song / The Song of the Night Forest",
+    "day": 5,
+    "show": 1,
+    "theatre": "Nila",
+    "time": "9:00 AM",
+    "movieId": "the-hours-of-song"
+  },
+  {
+    "movieTitle": "Mogul Mowgli",
+    "day": 5,
+    "show": 2,
+    "theatre": "Nila",
+    "time": "12:00 PM",
+    "movieId": "mogul-mowgli"
+  },
+  {
+    "movieTitle": "Franz",
+    "day": 5,
+    "show": 3,
+    "theatre": "Nila",
+    "time": "3:00 PM",
+    "movieId": "franz"
+  },
+  {
+    "movieTitle": "Hiroshima Mon Amour",
+    "day": 5,
+    "show": 4,
+    "theatre": "Nila",
+    "time": "6:00 PM",
+    "movieId": "hiroshima-mon-amour"
+  },
+  {
+    "movieTitle": "Clouds of May / Mayis Sıkıntısı",
+    "day": 5,
+    "show": 5,
+    "theatre": "Nila",
+    "time": "8:30 PM",
+    "movieId": "clouds-of-may"
+  },
+  {
+    "movieTitle": "Magellan / Magalhães",
+    "day": 5,
+    "show": 1,
+    "theatre": "Kalabhavan",
+    "time": "9:00 AM",
+    "movieId": "magellan"
+  },
+  {
+    "movieTitle": "Desire / Moham",
+    "day": 5,
+    "show": 2,
+    "theatre": "Kalabhavan",
+    "time": "12:15 PM",
+    "movieId": "desire"
+  },
+  {
+    "movieTitle": "Black Soldier",
+    "day": 5,
+    "show": 3,
+    "theatre": "Kalabhavan",
+    "time": "3:15 PM",
+    "movieId": "black-soldier"
+  },
+  {
+    "movieTitle": "Alien",
+    "day": 5,
+    "show": 4,
+    "theatre": "Kalabhavan",
+    "time": "6:00 PM",
+    "movieId": "alien"
+  },
+  {
+    "movieTitle": "Melody of Oblivion / The Land of Wandering Spirits",
+    "day": 5,
+    "show": 5,
+    "theatre": "Kalabhavan",
+    "time": "8:30 PM",
+    "movieId": "melody-of-oblivion"
+  },
+  {
+    "movieTitle": "Papa Buka",
+    "day": 5,
+    "show": 1,
+    "theatre": "Tagore",
+    "time": "9:00 AM",
+    "movieId": "papa-buka"
+  },
+  {
+    "movieTitle": "Big River / Barakat",
+    "day": 5,
+    "show": 2,
+    "theatre": "Tagore",
+    "time": "12:00 PM",
+    "movieId": "big-river"
+  },
+  {
+    "movieTitle": "Silent Friend / Stille Freundin",
+    "day": 5,
+    "show": 3,
+    "theatre": "Tagore",
+    "time": "3:00 PM",
+    "movieId": "silent-friend"
+  },
+  {
+    "movieTitle": "Shape of Momo",
+    "day": 5,
+    "show": 4,
+    "theatre": "Tagore",
+    "time": "6:15 PM",
+    "movieId": "shape-of-momo"
+  },
+  {
+    "movieTitle": "A Useful Ghost / Pee Chai Dai Ka",
+    "day": 5,
+    "show": 5,
+    "theatre": "Tagore",
+    "time": "8:30 PM",
+    "movieId": "a-useful-ghost"
+  },
+  {
+    "movieTitle": null,
+    "day": 5,
+    "show": 1,
+    "theatre": "Nishagandhi",
+    "time": "",
+    "movieId": null
+  },
+  {
+    "movieTitle": null,
+    "day": 5,
+    "show": 2,
+    "theatre": "Nishagandhi",
+    "time": "",
+    "movieId": null
+  },
+  {
+    "movieTitle": "All That’s Left of You / اللي باقي منك",
+    "day": 5,
+    "show": 3,
+    "theatre": "Nishagandhi",
+    "time": "3:00 PM",
+    "movieId": "all-thats-left-of-you"
+  },
+  {
+    "movieTitle": "Bugonia",
+    "day": 5,
+    "show": 4,
+    "theatre": "Nishagandhi",
+    "time": "6:00 PM",
+    "movieId": "bugonia"
+  },
+  {
+    "movieTitle": "The Book of Sijjin / Kitab al-Sijjin",
+    "day": 5,
+    "show": 5,
+    "theatre": "Nishagandhi",
+    "time": "9:00 PM",
+    "movieId": "the-book-of-sijjin"
+  },
+  {
+    "movieTitle": "The Gold Rush",
+    "day": 5,
+    "show": 1,
+    "theatre": "Ariesplex-1",
+    "time": "9:15 AM",
+    "movieId": "the-gold-rush"
+  },
+  {
+    "movieTitle": "Nirmalyam",
+    "day": 5,
+    "show": 2,
+    "theatre": "Ariesplex-1",
+    "time": "11:15 AM",
+    "movieId": "nirmalyam"
+  },
+  {
+    "movieTitle": "Cu Li Never Cries",
+    "day": 5,
+    "show": 3,
+    "theatre": "Ariesplex-1",
+    "time": "3:00 PM",
+    "movieId": "cu-li-never-cries"
+  },
+  {
+    "movieTitle": "Dreams (Sex Love) / Drømmer",
+    "day": 5,
+    "show": 4,
+    "theatre": "Ariesplex-1",
+    "time": "6:00 PM",
+    "movieId": "dreams-sex-love"
+  },
+  {
+    "movieTitle": "Aguirre, Wrath of God / Aguirre, der Zorn Gottes",
+    "day": 5,
+    "show": 5,
+    "theatre": "Ariesplex-1",
+    "time": "8:30 PM",
+    "movieId": "aguirre-wrath-of-god"
+  },
+  {
+    "movieTitle": "The Girl in the Snow / L’engloutie",
+    "day": 5,
+    "show": 1,
+    "theatre": "Ariesplex-4",
+    "time": "9:15 AM",
+    "movieId": "the-girl-in-the-snow"
+  },
+  {
+    "movieTitle": "The Little Sister / La Petite Dernière",
+    "day": 5,
+    "show": 2,
+    "theatre": "Ariesplex-4",
+    "time": "12:00 PM",
+    "movieId": "the-little-sister"
+  },
+  {
+    "movieTitle": "The Mysterious Gaze of the Flamingo / La mirada misteriosa del flamenco",
+    "day": 5,
+    "show": 3,
+    "theatre": "Ariesplex-4",
+    "time": "3:00 PM",
+    "movieId": "the-mysterious-gaze-of-the-flamingo"
+  },
+  {
+    "movieTitle": "When I Move / Når jeg flyttar",
+    "day": 5,
+    "show": 4,
+    "theatre": "Ariesplex-4",
+    "time": "6:00 PM",
+    "movieId": "when-i-move"
+  },
+  {
+    "movieTitle": "Lose to Win",
+    "day": 5,
+    "show": 5,
+    "theatre": "Ariesplex-4",
+    "time": "8:15 PM",
+    "movieId": "lose-to-win"
+  },
+  {
+    "movieTitle": "My Father’s Shadow",
+    "day": 5,
+    "show": 1,
+    "theatre": "Ariesplex-6",
+    "time": "9:15 AM",
+    "movieId": "my-fathers-shadow"
+  },
+  {
+    "movieTitle": "Alien",
+    "day": 5,
+    "show": 2,
+    "theatre": "Ariesplex-6",
+    "time": "11:45 AM",
+    "movieId": "alien"
+  },
+  {
+    "movieTitle": "Sthalathe Pradhana Payyans",
+    "day": 5,
+    "show": 3,
+    "theatre": "Ariesplex-6",
+    "time": "3:15 PM",
+    "movieId": "sthalathe-pradhana-payyans"
+  },
+  {
+    "movieTitle": "The Glorious Works of G.F. Zwaen",
+    "day": 5,
+    "show": 4,
+    "theatre": "Ariesplex-6",
+    "time": "6:30 PM",
+    "movieId": "the-glorious-works-of-gf-zwaen"
+  },
+  {
+    "movieTitle": "Donkeyote",
+    "day": 5,
+    "show": 5,
+    "theatre": "Ariesplex-6",
+    "time": "9:00 PM",
+    "movieId": "donkeyote"
+  },
+  {
+    "movieTitle": "The Diary of West Bangal",
+    "day": 5,
+    "show": 1,
+    "theatre": "New-1",
+    "time": "9:30 AM",
+    "movieId": "the-diary-of-west-bangal"
+  },
+  {
+    "movieTitle": "Elephant / எல்பன்ட்",
+    "day": 5,
+    "show": 2,
+    "theatre": "New-1",
+    "time": "12:00 PM",
+    "movieId": "elephant"
+  },
+  {
+    "movieTitle": "Le Mali 70",
+    "day": 5,
+    "show": 3,
+    "theatre": "New-1",
+    "time": "3:00 PM",
+    "movieId": "le-mali-70"
+  },
+  {
+    "movieTitle": "The Pearl",
+    "day": 5,
+    "show": 4,
+    "theatre": "New-1",
+    "time": "6:00 PM",
+    "movieId": "the-pearl"
+  },
+  {
+    "movieTitle": "Heisei Rider vs Showa Rider",
+    "day": 5,
+    "show": 5,
+    "theatre": "New-1",
+    "time": "8:30 PM",
+    "movieId": "heisei-rider-vs-showa-rider"
+  },
+  {
+    "movieTitle": "Little Trouble Girls / Kaj ti je deklica",
+    "day": 5,
+    "show": 1,
+    "theatre": "New-2",
+    "time": "9:15 AM",
+    "movieId": "little-trouble-girls"
+  },
+  {
+    "movieTitle": "Red Point / Punto Rojo",
+    "day": 5,
+    "show": 2,
+    "theatre": "New-2",
+    "time": "11:45 AM",
+    "movieId": "red-point"
+  },
+  {
+    "movieTitle": "The Wrestler",
+    "day": 5,
+    "show": 3,
+    "theatre": "New-2",
+    "time": "3:15 PM",
+    "movieId": "the-wrestler"
+  },
+  {
+    "movieTitle": "Bengal 1930",
+    "day": 5,
+    "show": 4,
+    "theatre": "New-2",
+    "time": "6:15 PM",
+    "movieId": "bengal-1930"
+  },
+  {
+    "movieTitle": "Alex’s Place",
+    "day": 5,
+    "show": 5,
+    "theatre": "New-2",
+    "time": "8:45 PM",
+    "movieId": "alexs-place"
+  },
+  {
+    "movieTitle": "Everest",
+    "day": 5,
+    "show": 1,
+    "theatre": "New-3",
+    "time": "9:30 AM",
+    "movieId": "everest"
+  },
+  {
+    "movieTitle": "Sirat",
+    "day": 5,
+    "show": 2,
+    "theatre": "New-3",
+    "time": "12:00 PM",
+    "movieId": "sirat"
+  },
+  {
+    "movieTitle": "Cut",
+    "day": 5,
+    "show": 3,
+    "theatre": "New-3",
+    "time": "2:45 PM",
+    "movieId": "cut"
+  },
+  {
+    "movieTitle": "Terrestrial Verses",
+    "day": 5,
+    "show": 4,
+    "theatre": "New-3",
+    "time": "6:00 PM",
+    "movieId": "terrestrial-verses"
+  },
+  {
+    "movieTitle": "Turtles Can Fly",
+    "day": 5,
+    "show": 5,
+    "theatre": "New-3",
+    "time": "8:15 PM",
+    "movieId": "turtles-can-fly"
+  },
+  {
+    "movieTitle": "White Building",
+    "day": 5,
+    "show": 1,
+    "theatre": "Ajantha",
+    "time": "9:15 AM",
+    "movieId": "white-building"
+  },
+  {
+    "movieTitle": "Our Father / Oče naš",
+    "day": 5,
+    "show": 2,
+    "theatre": "Ajantha",
+    "time": "12:00 PM",
+    "movieId": "our-father"
+  },
+  {
+    "movieTitle": "Troubles Come Today",
+    "day": 5,
+    "show": 3,
+    "theatre": "Ajantha",
+    "time": "3:00 PM",
+    "movieId": "troubles-come-today"
+  },
+  {
+    "movieTitle": "Cot Bonkin",
+    "day": 5,
+    "show": 4,
+    "theatre": "Ajantha",
+    "time": "6:00 PM",
+    "movieId": "cot-bonkin"
+  },
+  {
+    "movieTitle": "Raam",
+    "day": 5,
+    "show": 5,
+    "theatre": "Ajantha",
+    "time": "8:30 PM",
+    "movieId": "raam"
+  },
+  {
+    "movieTitle": "The Complaint",
+    "day": 5,
+    "show": 1,
+    "theatre": "Sree Padmanabha",
+    "time": "9:00 AM",
+    "movieId": "the-complaint"
+  },
+  {
+    "movieTitle": "Forastera",
+    "day": 5,
+    "show": 2,
+    "theatre": "Sree Padmanabha",
+    "time": "11:45 AM",
+    "movieId": "forastera"
+  },
+  {
+    "movieTitle": "Continent",
+    "day": 5,
+    "show": 3,
+    "theatre": "Sree Padmanabha",
+    "time": "3:00 PM",
+    "movieId": "continent"
+  },
+  {
+    "movieTitle": "Sunny Side Story",
+    "day": 5,
+    "show": 4,
+    "theatre": "Sree Padmanabha",
+    "time": "6:00 PM",
+    "movieId": "sunny-side-story"
+  },
+  {
+    "movieTitle": "Without Air",
+    "day": 5,
+    "show": 5,
+    "theatre": "Sree Padmanabha",
+    "time": "8:15 PM",
+    "movieId": "without-air"
+  },
+  {
+    "movieTitle": "The Love That Remains / Ástin sem eftir er",
+    "day": 5,
+    "show": 1,
+    "theatre": "Kripa-1",
+    "time": "9:15 AM",
+    "movieId": "the-love-that-remains"
+  },
+  {
+    "movieTitle": "Kondal / கொண்டாள்",
+    "day": 5,
+    "show": 2,
+    "theatre": "Kripa-1",
+    "time": "11:45 AM",
+    "movieId": "kondal"
+  },
+  {
+    "movieTitle": "Ezra",
+    "day": 5,
+    "show": 3,
+    "theatre": "Kripa-1",
+    "time": "3:00 PM",
+    "movieId": "ezra"
+  },
+  {
+    "movieTitle": "Two Seasons, Two Strangers / Tabi to Hibi",
+    "day": 5,
+    "show": 4,
+    "theatre": "Kripa-1",
+    "time": "6:00 PM",
+    "movieId": "two-seasons-two-strangers"
+  },
+  {
+    "movieTitle": "Wild Pear Tree / Ahlat Ağacı",
+    "day": 5,
+    "show": 5,
+    "theatre": "Kripa-1",
+    "time": "8:30 PM",
+    "movieId": "wild-pear-tree"
+  },
+  {
+    "movieTitle": "THEATRE",
+    "day": 6,
+    "show": 1,
+    "theatre": "Kairali",
+    "time": "9:00 AM",
+    "movieId": "theatre"
+  },
+  {
+    "movieTitle": "Life of a Phallus",
+    "day": 6,
+    "show": 2,
+    "theatre": "Kairali",
+    "time": "11:30 AM",
+    "movieId": "life-of-a-phallus"
+  },
+  {
+    "movieTitle": "Flames / Laptein",
+    "day": 6,
+    "show": 3,
+    "theatre": "Kairali",
+    "time": "3:00 PM",
+    "movieId": "flames"
+  },
+  {
+    "movieTitle": "AWAIT",
+    "day": 6,
+    "show": 4,
+    "theatre": "Kairali",
+    "time": "6:00 PM",
+    "movieId": "await"
+  },
+  {
+    "movieTitle": "A Sad and a Beautiful World",
+    "day": 6,
+    "show": 5,
+    "theatre": "Kairali",
+    "time": "8:30 PM",
+    "movieId": "a-sad-and-a-beautiful-world"
+  },
+  {
+    "movieTitle": "Reedland / Rietland",
+    "day": 6,
+    "show": 1,
+    "theatre": "Sree",
+    "time": "9:15 AM",
+    "movieId": "reedland"
+  },
+  {
+    "movieTitle": "A Useful Ghost",
+    "day": 6,
+    "show": 2,
+    "theatre": "Sree",
+    "time": "12:00 PM",
+    "movieId": "a-useful-ghost"
+  },
+  {
+    "movieTitle": "Samsara",
+    "day": 6,
+    "show": 3,
+    "theatre": "Sree",
+    "time": "3:00 PM",
+    "movieId": "samsara"
+  },
+  {
+    "movieTitle": "Girl and the Fools Parade",
+    "day": 6,
+    "show": 4,
+    "theatre": "Sree",
+    "time": "6:00 PM",
+    "movieId": "girl-and-the-fools-parade"
+  },
+  {
+    "movieTitle": "Girl",
+    "day": 6,
+    "show": 5,
+    "theatre": "Sree",
+    "time": "8:30 PM",
+    "movieId": "girl"
+  },
+  {
+    "movieTitle": "Quixote Hunter",
+    "day": 6,
+    "show": 1,
+    "theatre": "Nila",
+    "time": "9:00 AM",
+    "movieId": "quixote-hunter"
+  },
+  {
+    "movieTitle": "The Glorious Works of G.F. Zwaen",
+    "day": 6,
+    "show": 2,
+    "theatre": "Nila",
+    "time": "11:15 AM",
+    "movieId": "the-glorious-works-of-gf-zwaen"
+  },
+  {
+    "movieTitle": "All That’s Left of You / اللي باقي منك",
+    "day": 6,
+    "show": 3,
+    "theatre": "Nila",
+    "time": "3:00 PM",
+    "movieId": "all-thats-left-of-you"
+  },
+  {
+    "movieTitle": "Flames / Laptein",
+    "day": 6,
+    "show": 4,
+    "theatre": "Nila",
+    "time": "6:00 PM",
+    "movieId": "flames"
+  },
+  {
+    "movieTitle": "Breathless / À bout de souffle",
+    "day": 6,
+    "show": 5,
+    "theatre": "Nila",
+    "time": "8:30 PM",
+    "movieId": "breathless"
+  },
+  {
+    "movieTitle": "Whispers in the Dabbas / Nyanyi Sunyi Dalam Rantang",
+    "day": 6,
+    "show": 1,
+    "theatre": "Kalabhavan",
+    "time": "9:15 AM",
+    "movieId": "whispers-in-the-dabbas"
+  },
+  {
+    "movieTitle": "Tiger’s Pond / Vaghachipani",
+    "day": 6,
+    "show": 2,
+    "theatre": "Kalabhavan",
+    "time": "12:00 PM",
+    "movieId": "tigers-pond"
+  },
+  {
+    "movieTitle": "Black Tea",
+    "day": 6,
+    "show": 3,
+    "theatre": "Kalabhavan",
+    "time": "3:15 PM",
+    "movieId": "black-tea"
+  },
+  {
+    "movieTitle": "The Coffin / Shavapetti",
+    "day": 6,
+    "show": 4,
+    "theatre": "Kalabhavan",
+    "time": "6:00 PM",
+    "movieId": "the-coffin"
+  },
+  {
+    "movieTitle": "Inshallah A Boy / إن شاء الله ولد",
+    "day": 6,
+    "show": 5,
+    "theatre": "Kalabhavan",
+    "time": "8:15 PM",
+    "movieId": "inshallah-a-boy"
+  },
+  {
+    "movieTitle": "The Currents / Las Corrientes",
+    "day": 6,
+    "show": 1,
+    "theatre": "Tagore",
+    "time": "9:00 AM",
+    "movieId": "the-currents"
+  },
+  {
+    "movieTitle": "Who Do I Belong To / لمن أملك",
+    "day": 6,
+    "show": 2,
+    "theatre": "Tagore",
+    "time": "12:00 PM",
+    "movieId": "who-do-i-belong-to"
+  },
+  {
+    "movieTitle": "Cut",
+    "day": 6,
+    "show": 3,
+    "theatre": "Tagore",
+    "time": "3:00 PM",
+    "movieId": "cut"
+  },
+  {
+    "movieTitle": "Chemmeen",
+    "day": 6,
+    "show": 4,
+    "theatre": "Tagore",
+    "time": "6:00 PM",
+    "movieId": "chemmeen"
+  },
+  {
+    "movieTitle": "Subarnarekha / সুবর্ণরেখা",
+    "day": 6,
+    "show": 5,
+    "theatre": "Tagore",
+    "time": "8:30 PM",
+    "movieId": "subarnarekha"
+  },
+  {
+    "movieTitle": "The Girl Who Stole Time",
+    "day": 6,
+    "show": 1,
+    "theatre": "Nishagandhi",
+    "time": "9:15 AM",
+    "movieId": "the-girl-who-stole-time"
+  },
+  {
+    "movieTitle": "Tiger Stripes",
+    "day": 6,
+    "show": 2,
+    "theatre": "Nishagandhi",
+    "time": "12:00 PM",
+    "movieId": "tiger-stripes"
+  },
+  {
+    "movieTitle": "Housekeeping for Beginners",
+    "day": 6,
+    "show": 3,
+    "theatre": "Nishagandhi",
+    "time": "3:00 PM",
+    "movieId": "housekeeping-for-beginners"
+  },
+  {
+    "movieTitle": "Alexandrina",
+    "day": 6,
+    "show": 4,
+    "theatre": "Nishagandhi",
+    "time": "6:00 PM",
+    "movieId": "alexandrina"
+  },
+  {
+    "movieTitle": "Alexandria… Why? / إسكندرية ليه؟",
+    "day": 6,
+    "show": 5,
+    "theatre": "Nishagandhi",
+    "time": "8:30 PM",
+    "movieId": "alexandria-why"
+  },
+  {
+    "movieTitle": "The Abyss / The Empire / L’Empire",
+    "day": 6,
+    "show": 1,
+    "theatre": "Ariesplex-1",
+    "time": "9:00 AM",
+    "movieId": "the-abyss"
+  },
+  {
+    "movieTitle": "Blue Velvet",
+    "day": 6,
+    "show": 2,
+    "theatre": "Ariesplex-1",
+    "time": "11:30 AM",
+    "movieId": "blue-velvet"
+  },
+  {
+    "movieTitle": "The Hours of Song / The Song of the Night Forest",
+    "day": 6,
+    "show": 3,
+    "theatre": "Ariesplex-1",
+    "time": "3:00 PM",
+    "movieId": "the-hours-of-song"
+  },
+  {
+    "movieTitle": "Brest Fortress / Брестская крепость",
+    "day": 6,
+    "show": 4,
+    "theatre": "Ariesplex-1",
+    "time": "6:00 PM",
+    "movieId": "brest-fortress"
+  },
+  {
+    "movieTitle": "Cot Bonkin",
+    "day": 6,
+    "show": 5,
+    "theatre": "Ariesplex-1",
+    "time": "8:45 PM",
+    "movieId": "cot-bonkin"
+  },
+  {
+    "movieTitle": "The President’s Cake",
+    "day": 6,
+    "show": 1,
+    "theatre": "Ariesplex-4",
+    "time": "9:00 AM",
+    "movieId": "the-presidents-cake"
+  },
+  {
+    "movieTitle": "Forastera",
+    "day": 6,
+    "show": 2,
+    "theatre": "Ariesplex-4",
+    "time": "12:00 PM",
+    "movieId": "forastera"
+  },
+  {
+    "movieTitle": "Two Prosecutors / Zwei Staatsanwälte",
+    "day": 6,
+    "show": 3,
+    "theatre": "Ariesplex-4",
+    "time": "3:00 PM",
+    "movieId": "two-prosecutors"
+  },
+  {
+    "movieTitle": "Nayattu",
+    "day": 6,
+    "show": 4,
+    "theatre": "Ariesplex-4",
+    "time": "6:00 PM",
+    "movieId": "nayattu"
+  },
+  {
+    "movieTitle": "Donkeyote",
+    "day": 6,
+    "show": 5,
+    "theatre": "Ariesplex-4",
+    "time": "8:45 PM",
+    "movieId": "donkeyote"
+  },
+  {
+    "movieTitle": "The Mysterious Gaze of the Flamingo / La mirada misteriosa del flamenco",
+    "day": 6,
+    "show": 1,
+    "theatre": "Ariesplex-6",
+    "time": "9:00 AM",
+    "movieId": "the-mysterious-gaze-of-the-flamingo"
+  },
+  {
+    "movieTitle": "The Wrestler",
+    "day": 6,
+    "show": 2,
+    "theatre": "Ariesplex-6",
+    "time": "12:00 PM",
+    "movieId": "the-wrestler"
+  },
+  {
+    "movieTitle": "Father Mother Sister Brother",
+    "day": 6,
+    "show": 3,
+    "theatre": "Ariesplex-6",
+    "time": "3:00 PM",
+    "movieId": "father-mother-sister-brother"
+  },
+  {
+    "movieTitle": "Shape of Momo",
+    "day": 6,
+    "show": 4,
+    "theatre": "Ariesplex-6",
+    "time": "6:00 PM",
+    "movieId": "shape-of-momo"
+  },
+  {
+    "movieTitle": "Two Seasons, Two Strangers / Tabi to Hibi",
+    "day": 6,
+    "show": 5,
+    "theatre": "Ariesplex-6",
+    "time": "8:30 PM",
+    "movieId": "two-seasons-two-strangers"
+  },
+  {
+    "movieTitle": "The Banquet of Primal Love",
+    "day": 6,
+    "show": 1,
+    "theatre": "New-1",
+    "time": "9:30 AM",
+    "movieId": "the-banquet-of-primal-love"
+  },
+  {
+    "movieTitle": "Tiger’s Pond / Vaghachipani",
+    "day": 6,
+    "show": 2,
+    "theatre": "New-1",
+    "time": "12:00 PM",
+    "movieId": "tigers-pond"
+  },
+  {
+    "movieTitle": "Aisha Can’t Fly Away",
+    "day": 6,
+    "show": 3,
+    "theatre": "New-1",
+    "time": "3:00 PM",
+    "movieId": "aisha-cant-fly-away"
+  },
+  {
+    "movieTitle": "The Currents / Las Corrientes",
+    "day": 6,
+    "show": 4,
+    "theatre": "New-1",
+    "time": "6:00 PM",
+    "movieId": "the-currents"
+  },
+  {
+    "movieTitle": "What Does That Nature Say to You",
+    "day": 6,
+    "show": 5,
+    "theatre": "New-1",
+    "time": "8:30 PM",
+    "movieId": "what-does-that-nature-say-to-you"
+  },
+  {
+    "movieTitle": "Le Mali 70",
+    "day": 6,
+    "show": 1,
+    "theatre": "New-2",
+    "time": "9:15 AM",
+    "movieId": "le-mali-70"
+  },
+  {
+    "movieTitle": "Invasion 1897",
+    "day": 6,
+    "show": 2,
+    "theatre": "New-2",
+    "time": "11:45 AM",
+    "movieId": "invasion-1897"
+  },
+  {
+    "movieTitle": "Eva",
+    "day": 6,
+    "show": 3,
+    "theatre": "New-2",
+    "time": "3:15 PM",
+    "movieId": "eva"
+  },
+  {
+    "movieTitle": "Chemmeen",
+    "day": 6,
+    "show": 4,
+    "theatre": "New-2",
+    "time": "6:15 PM",
+    "movieId": "chemmeen"
+  },
+  {
+    "movieTitle": "Sunny Side Story",
+    "day": 6,
+    "show": 5,
+    "theatre": "New-2",
+    "time": "8:45 PM",
+    "movieId": "sunny-side-story"
+  },
+  {
+    "movieTitle": "Moonlight Shadow",
+    "day": 6,
+    "show": 1,
+    "theatre": "New-3",
+    "time": "9:15 AM",
+    "movieId": "moonlight-shadow"
+  },
+  {
+    "movieTitle": "Girl",
+    "day": 6,
+    "show": 2,
+    "theatre": "New-3",
+    "time": "12:00 PM",
+    "movieId": "girl"
+  },
+  {
+    "movieTitle": "Reverberations",
+    "day": 6,
+    "show": 3,
+    "theatre": "New-3",
+    "time": "2:45 PM",
+    "movieId": "reverberations"
+  },
+  {
+    "movieTitle": "Echo of the Waves / തരംഗങ്ങൾ",
+    "day": 6,
+    "show": 4,
+    "theatre": "New-3",
+    "time": "6:00 PM",
+    "movieId": "echo-of-the-waves"
+  },
+  {
+    "movieTitle": "Caméra d’Afrique",
+    "day": 6,
+    "show": 5,
+    "theatre": "New-3",
+    "time": "8:30 PM",
+    "movieId": "camra-dafrique"
+  },
+  {
+    "movieTitle": "Shape of Momo",
+    "day": 6,
+    "show": 1,
+    "theatre": "Ajantha",
+    "time": "9:30 AM",
+    "movieId": "shape-of-momo"
+  },
+  {
+    "movieTitle": "Black Water",
+    "day": 6,
+    "show": 2,
+    "theatre": "Ajantha",
+    "time": "12:00 PM",
+    "movieId": "black-water"
+  },
+  {
+    "movieTitle": "Woodpeckers of Rotha",
+    "day": 6,
+    "show": 3,
+    "theatre": "Ajantha",
+    "time": "3:00 PM",
+    "movieId": "woodpeckers-of-rotha"
+  },
+  {
+    "movieTitle": "The Virgin of the Quarry Lake / La virgen de la tosquera",
+    "day": 6,
+    "show": 4,
+    "theatre": "Ajantha",
+    "time": "6:00 PM",
+    "movieId": "the-virgin-of-the-quarry-lake"
+  },
+  {
+    "movieTitle": "The Things You Kill / Öldürdüğün Şeyler",
+    "day": 6,
+    "show": 5,
+    "theatre": "Ajantha",
+    "time": "8:30 PM",
+    "movieId": "the-things-you-kill"
+  },
+  {
+    "movieTitle": "El Conde",
+    "day": 6,
+    "show": 1,
+    "theatre": "Sree Padmanabha",
+    "time": "9:15 AM",
+    "movieId": "el-conde"
+  },
+  {
+    "movieTitle": "The Broker",
+    "day": 6,
+    "show": 2,
+    "theatre": "Sree Padmanabha",
+    "time": "12:00 PM",
+    "movieId": "the-broker"
+  },
+  {
+    "movieTitle": "Aisha Can’t Fly Away",
+    "day": 6,
+    "show": 3,
+    "theatre": "Sree Padmanabha",
+    "time": "3:00 PM",
+    "movieId": "aisha-cant-fly-away"
+  },
+  {
+    "movieTitle": "Cut",
+    "day": 6,
+    "show": 4,
+    "theatre": "Sree Padmanabha",
+    "time": "6:00 PM",
+    "movieId": "cut"
+  },
+  {
+    "movieTitle": "Ambili",
+    "day": 6,
+    "show": 5,
+    "theatre": "Sree Padmanabha",
+    "time": "8:30 PM",
+    "movieId": "ambili"
+  },
+  {
+    "movieTitle": "Parviz",
+    "day": 6,
+    "show": 1,
+    "theatre": "Kripa-1",
+    "time": "9:15 AM",
+    "movieId": "parviz"
+  },
+  {
+    "movieTitle": "Captain Miller",
+    "day": 6,
+    "show": 2,
+    "theatre": "Kripa-1",
+    "time": "12:00 PM",
+    "movieId": "captain-miller"
+  },
+  {
+    "movieTitle": "The Abyss / L’Empire",
+    "day": 6,
+    "show": 3,
+    "theatre": "Kripa-1",
+    "time": "3:00 PM",
+    "movieId": "the-abyss"
+  },
+  {
+    "movieTitle": "The Wrestler",
+    "day": 6,
+    "show": 4,
+    "theatre": "Kripa-1",
+    "time": "6:00 PM",
+    "movieId": "the-wrestler"
+  },
+  {
+    "movieTitle": "The Secret Agent / O Agente Secreto",
+    "day": 6,
+    "show": 5,
+    "theatre": "Kripa-1",
+    "time": "8:30 PM",
+    "movieId": "the-secret-agent"
+  },
+  {
+    "movieTitle": "Flowers of Shanghai",
+    "day": 7,
+    "show": 1,
+    "theatre": "Kairali",
+    "time": "9:00 AM",
+    "movieId": "flowers-of-shanghai"
+  },
+  {
+    "movieTitle": "Full Plate",
+    "day": 7,
+    "show": 2,
+    "theatre": "Kairali",
+    "time": "11:30 AM",
+    "movieId": "full-plate"
+  },
+  {
+    "movieTitle": "All The Living",
+    "day": 7,
+    "show": 3,
+    "theatre": "Kairali",
+    "time": "3:00 PM",
+    "movieId": "all-the-living"
+  },
+  {
+    "movieTitle": "The Elysian Field",
+    "day": 7,
+    "show": 4,
+    "theatre": "Kairali",
+    "time": "6:00 PM",
+    "movieId": "the-elysian-field"
+  },
+  {
+    "movieTitle": "Girls on Wire",
+    "day": 7,
+    "show": 5,
+    "theatre": "Kairali",
+    "time": "8:30 PM",
+    "movieId": "girls-on-wire"
+  },
+  {
+    "movieTitle": "Flowers of Shanghai",
+    "day": 7,
+    "show": 1,
+    "theatre": "Sree",
+    "time": "9:15 AM",
+    "movieId": "flowers-of-shanghai"
+  },
+  {
+    "movieTitle": "The Dark Room",
+    "day": 7,
+    "show": 2,
+    "theatre": "Sree",
+    "time": "12:00 PM",
+    "movieId": "the-dark-room"
+  },
+  {
+    "movieTitle": "Don’t Cry, Butterfly",
+    "day": 7,
+    "show": 3,
+    "theatre": "Sree",
+    "time": "3:00 PM",
+    "movieId": "dont-cry-butterfly"
+  },
+  {
+    "movieTitle": "Two Prosecutors",
+    "day": 7,
+    "show": 4,
+    "theatre": "Sree",
+    "time": "6:00 PM",
+    "movieId": "two-prosecutors"
+  },
+  {
+    "movieTitle": "Bad Girl",
+    "day": 7,
+    "show": 5,
+    "theatre": "Sree",
+    "time": "8:30 PM",
+    "movieId": "bad-girl"
+  },
+  {
+    "movieTitle": "Where The Wind Comes From",
+    "day": 7,
+    "show": 1,
+    "theatre": "Nila",
+    "time": "9:00 AM",
+    "movieId": "where-the-wind-comes-from"
+  },
+  {
+    "movieTitle": "L’Argent",
+    "day": 7,
+    "show": 2,
+    "theatre": "Nila",
+    "time": "11:30 AM",
+    "movieId": "largent"
+  },
+  {
+    "movieTitle": "Sound of Falling",
+    "day": 7,
+    "show": 3,
+    "theatre": "Nila",
+    "time": "3:00 PM",
+    "movieId": "sound-of-falling"
+  },
+  {
+    "movieTitle": "The Blue Trail",
+    "day": 7,
+    "show": 4,
+    "theatre": "Nila",
+    "time": "6:00 PM",
+    "movieId": "the-blue-trail"
+  },
+  {
+    "movieTitle": "Echo of the Waves",
+    "day": 7,
+    "show": 5,
+    "theatre": "Nila",
+    "time": "8:30 PM",
+    "movieId": "echo-of-the-waves"
+  },
+  {
+    "movieTitle": "Kissing Bug",
+    "day": 7,
+    "show": 1,
+    "theatre": "Kalabhavan",
+    "time": "9:15 AM",
+    "movieId": "kissing-bug"
+  },
+  {
+    "movieTitle": "Tiger Stripes",
+    "day": 7,
+    "show": 2,
+    "theatre": "Kalabhavan",
+    "time": "12:00 PM",
+    "movieId": "tiger-stripes"
+  },
+  {
+    "movieTitle": "The Settlement",
+    "day": 7,
+    "show": 3,
+    "theatre": "Kalabhavan",
+    "time": "3:00 PM",
+    "movieId": "the-settlement"
+  },
+  {
+    "movieTitle": "Don’t Cry, Butterfly",
+    "day": 7,
+    "show": 4,
+    "theatre": "Kalabhavan",
+    "time": "6:00 PM",
+    "movieId": "dont-cry-butterfly"
+  },
+  {
+    "movieTitle": "Aho-oooh",
+    "day": 7,
+    "show": 5,
+    "theatre": "Kalabhavan",
+    "time": "8:45 PM",
+    "movieId": "aho-oooh"
+  },
+  {
+    "movieTitle": "Woodpeckers of Rotha",
+    "day": 7,
+    "show": 1,
+    "theatre": "Tagore",
+    "time": "9:00 AM",
+    "movieId": "woodpeckers-of-rotha"
+  },
+  {
+    "movieTitle": "Two Seasons, Two Strangers",
+    "day": 7,
+    "show": 2,
+    "theatre": "Tagore",
+    "time": "12:00 PM",
+    "movieId": "two-seasons-two-strangers"
+  },
+  {
+    "movieTitle": "Invented Woman",
+    "day": 7,
+    "show": 3,
+    "theatre": "Tagore",
+    "time": "3:00 PM",
+    "movieId": "invented-woman"
+  },
+  {
+    "movieTitle": "Subarnarekha",
+    "day": 7,
+    "show": 4,
+    "theatre": "Tagore",
+    "time": "6:00 PM",
+    "movieId": "subarnarekha"
+  },
+  {
+    "movieTitle": "El Conde",
+    "day": 7,
+    "show": 5,
+    "theatre": "Tagore",
+    "time": "8:30 PM",
+    "movieId": "el-conde"
+  },
+  {
+    "movieTitle": "The Complaint",
+    "day": 7,
+    "show": 1,
+    "theatre": "Nishagandhi",
+    "time": "9:15 AM",
+    "movieId": "the-complaint"
+  },
+  {
+    "movieTitle": "The Secret Agent",
+    "day": 7,
+    "show": 2,
+    "theatre": "Nishagandhi",
+    "time": "12:00 PM",
+    "movieId": "the-secret-agent"
+  },
+  {
+    "movieTitle": "Two Prosecutors",
+    "day": 7,
+    "show": 3,
+    "theatre": "Nishagandhi",
+    "time": "3:00 PM",
+    "movieId": "two-prosecutors"
+  },
+  {
+    "movieTitle": "Gandhi Talks",
+    "day": 7,
+    "show": 4,
+    "theatre": "Nishagandhi",
+    "time": "6:00 PM",
+    "movieId": "gandhi-talks"
+  },
+  {
+    "movieTitle": "Who Do I Belong To",
+    "day": 7,
+    "show": 5,
+    "theatre": "Nishagandhi",
+    "time": "8:30 PM",
+    "movieId": "who-do-i-belong-to"
+  },
+  {
+    "movieTitle": "Brest Fortress",
+    "day": 7,
+    "show": 1,
+    "theatre": "Ariesplex-1",
+    "time": "9:00 AM",
+    "movieId": "brest-fortress"
+  },
+  {
+    "movieTitle": "The Hours of Song",
+    "day": 7,
+    "show": 2,
+    "theatre": "Ariesplex-1",
+    "time": "11:30 AM",
+    "movieId": "the-hours-of-song"
+  },
+  {
+    "movieTitle": "The Girl Who Stole Time",
+    "day": 7,
+    "show": 3,
+    "theatre": "Ariesplex-1",
+    "time": "3:00 PM",
+    "movieId": "the-girl-who-stole-time"
+  },
+  {
+    "movieTitle": "About Elly",
+    "day": 7,
+    "show": 4,
+    "theatre": "Ariesplex-1",
+    "time": "6:00 PM",
+    "movieId": "about-elly"
+  },
+  {
+    "movieTitle": "The Daughter",
+    "day": 7,
+    "show": 5,
+    "theatre": "Ariesplex-1",
+    "time": "8:30 PM",
+    "movieId": "the-daughter"
+  },
+  {
+    "movieTitle": "Two Seasons, Two Strangers",
+    "day": 7,
+    "show": 1,
+    "theatre": "Ariesplex-4",
+    "time": "9:00 AM",
+    "movieId": "two-seasons-two-strangers"
+  },
+  {
+    "movieTitle": "The Sun Rises on Us All",
+    "day": 7,
+    "show": 2,
+    "theatre": "Ariesplex-4",
+    "time": "12:00 PM",
+    "movieId": "the-sun-rises-on-us-all"
+  },
+  {
+    "movieTitle": "All The Living",
+    "day": 7,
+    "show": 3,
+    "theatre": "Ariesplex-4",
+    "time": "3:00 PM",
+    "movieId": "all-the-living"
+  },
+  {
+    "movieTitle": "Alexandria… Why?",
+    "day": 7,
+    "show": 4,
+    "theatre": "Ariesplex-4",
+    "time": "6:00 PM",
+    "movieId": "alexandria-why"
+  },
+  {
+    "movieTitle": "Mariana’s Room",
+    "day": 7,
+    "show": 5,
+    "theatre": "Ariesplex-4",
+    "time": "8:30 PM",
+    "movieId": "marianas-room"
+  },
+  {
+    "movieTitle": "Cu Li Never Cries",
+    "day": 7,
+    "show": 1,
+    "theatre": "Ariesplex-6",
+    "time": "9:00 AM",
+    "movieId": "cu-li-never-cries"
+  },
+  {
+    "movieTitle": "Avalanche",
+    "day": 7,
+    "show": 2,
+    "theatre": "Ariesplex-6",
+    "time": "12:00 PM",
+    "movieId": "avalanche"
+  },
+  {
+    "movieTitle": "The Gold Rush",
+    "day": 7,
+    "show": 3,
+    "theatre": "Ariesplex-6",
+    "time": "3:00 PM",
+    "movieId": "the-gold-rush"
+  },
+  {
+    "movieTitle": "Big River",
+    "day": 7,
+    "show": 4,
+    "theatre": "Ariesplex-6",
+    "time": "6:00 PM",
+    "movieId": "big-river"
+  },
+  {
+    "movieTitle": "Sirat",
+    "day": 7,
+    "show": 5,
+    "theatre": "Ariesplex-6",
+    "time": "8:30 PM",
+    "movieId": "sirat"
+  },
+  {
+    "movieTitle": "Should the Wind Drop",
+    "day": 7,
+    "show": 1,
+    "theatre": "New-1",
+    "time": "9:30 AM",
+    "movieId": "should-the-wind-drop"
+  },
+  {
+    "movieTitle": "Our Father",
+    "day": 7,
+    "show": 2,
+    "theatre": "New-1",
+    "time": "12:00 PM",
+    "movieId": "our-father"
+  },
+  {
+    "movieTitle": "Where The Wind Comes From",
+    "day": 7,
+    "show": 3,
+    "theatre": "New-1",
+    "time": "3:00 PM",
+    "movieId": "where-the-wind-comes-from"
+  },
+  {
+    "movieTitle": "The Complaint",
+    "day": 7,
+    "show": 4,
+    "theatre": "New-1",
+    "time": "6:00 PM",
+    "movieId": "the-complaint"
+  },
+  {
+    "movieTitle": "Who Do I Belong To",
+    "day": 7,
+    "show": 5,
+    "theatre": "New-1",
+    "time": "8:30 PM",
+    "movieId": "who-do-i-belong-to"
+  },
+  {
+    "movieTitle": "Aval",
+    "day": 7,
+    "show": 1,
+    "theatre": "New-2",
+    "time": "9:15 AM",
+    "movieId": "aval"
+  },
+  {
+    "movieTitle": "Before the Body",
+    "day": 7,
+    "show": 2,
+    "theatre": "New-2",
+    "time": "11:45 AM",
+    "movieId": "before-the-body"
+  },
+  {
+    "movieTitle": "The Other",
+    "day": 7,
+    "show": 3,
+    "theatre": "New-2",
+    "time": "3:15 PM",
+    "movieId": "the-other"
+  },
+  {
+    "movieTitle": "Big River",
+    "day": 7,
+    "show": 4,
+    "theatre": "New-2",
+    "time": "6:00 PM",
+    "movieId": "big-river"
+  },
+  {
+    "movieTitle": "L’Argent",
+    "day": 7,
+    "show": 5,
+    "theatre": "New-2",
+    "time": "8:45 PM",
+    "movieId": "largent"
+  },
+  {
+    "movieTitle": "The Gold Rush",
+    "day": 7,
+    "show": 1,
+    "theatre": "New-3",
+    "time": "9:15 AM",
+    "movieId": "the-gold-rush"
+  },
+  {
+    "movieTitle": "Avalanche",
+    "day": 7,
+    "show": 2,
+    "theatre": "New-3",
+    "time": "12:00 PM",
+    "movieId": "avalanche"
+  },
+  {
+    "movieTitle": "Tiger Stripes",
+    "day": 7,
+    "show": 3,
+    "theatre": "New-3",
+    "time": "2:45 PM",
+    "movieId": "tiger-stripes"
+  },
+  {
+    "movieTitle": "Cría Cuervos",
+    "day": 7,
+    "show": 4,
+    "theatre": "New-3",
+    "time": "6:00 PM",
+    "movieId": "cra-cuervos"
+  },
+  {
+    "movieTitle": "Gandhi Talks",
+    "day": 7,
+    "show": 5,
+    "theatre": "New-3",
+    "time": "8:30 PM",
+    "movieId": "gandhi-talks"
+  },
+  {
+    "movieTitle": "The Sea",
+    "day": 8,
+    "show": 1,
+    "theatre": "Kairali",
+    "time": "9:30 AM",
+    "movieId": "the-sea"
+  },
+  {
+    "movieTitle": "Six Days in Spring",
+    "day": 8,
+    "show": 2,
+    "theatre": "Kairali",
+    "time": "12:00 PM",
+    "movieId": "six-days-in-spring"
+  },
+  {
+    "movieTitle": "Cotton Queen",
+    "day": 8,
+    "show": 1,
+    "theatre": "Sree",
+    "time": "9:15 AM",
+    "movieId": "cotton-queen"
+  },
+  {
+    "movieTitle": "Cairo Station",
+    "day": 8,
+    "show": 2,
+    "theatre": "Sree",
+    "time": "12:00 PM",
+    "movieId": "cairo-station"
+  },
+  {
+    "movieTitle": "Once Upon a Love Story",
+    "day": 8,
+    "show": 1,
+    "theatre": "Nila",
+    "time": "9:00 AM",
+    "movieId": "once-upon-a-love-story"
+  },
+  {
+    "movieTitle": "Inside the Wolf",
+    "day": 8,
+    "show": 2,
+    "theatre": "Nila",
+    "time": "11:30 AM",
+    "movieId": "inside-the-wolf"
+  },
+  {
+    "movieTitle": "Romería",
+    "day": 8,
+    "show": 1,
+    "theatre": "Kalabhavan",
+    "time": "9:15 AM",
+    "movieId": "romera"
+  },
+  {
+    "movieTitle": "Waiting for Happiness",
+    "day": 8,
+    "show": 2,
+    "theatre": "Kalabhavan",
+    "time": "12:00 PM",
+    "movieId": "waiting-for-happiness"
+  },
+  {
+    "movieTitle": "Gloaming in Luomu",
+    "day": 8,
+    "show": 1,
+    "theatre": "Tagore",
+    "time": "9:00 AM",
+    "movieId": "gloaming-in-luomu"
+  },
+  {
+    "movieTitle": "Riverstone",
+    "day": 8,
+    "show": 2,
+    "theatre": "Tagore",
+    "time": "11:30 AM",
+    "movieId": "riverstone"
+  },
+  {
+    "movieTitle": "Miroirs No. 3",
+    "day": 8,
+    "show": 3,
+    "theatre": "Tagore",
+    "time": "2:00 PM",
+    "movieId": "miroirs-no-3"
+  },
+  {
+    "movieTitle": "Closing Ceremony",
+    "day": 8,
+    "show": 3,
+    "theatre": "Nishagandhi",
+    "time": "6:00 PM",
+    "movieId": null
+  }
+]
