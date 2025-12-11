@@ -17,7 +17,13 @@ import Link from "next/link";
 
 /**
  * Client-only Watchlist page.
- * Uses onAuthStateChanged via your AuthProvider (useAuth) so nothing runs at build time.
+ * Uses onAuthStateChanged via your AuthProvider (useA"compilerOptions": {
+     "baseUrl": "src",
+     "paths": {
+       "@/*": ["*"]
+     }
+   }
+ }uth) so nothing runs at build time.
  */
 
 export default function WatchlistPage() {
