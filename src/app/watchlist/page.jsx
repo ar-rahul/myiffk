@@ -2,8 +2,8 @@
 export const dynamic = "force-dynamic";
 
 import { useEffect, useState } from "react";
-import Navbar from "@/components/Navbar";
-import { useAuth } from "@/components/AuthProvider"; // adjust path if different
+import Navbar from "@/app/components/Navbar";
+import { useAuth } from "@/app/AuthProvider"; // adjust path if different
 import { db } from "@/firebaseConfig";
 import {
   collection,
