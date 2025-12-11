@@ -1,7 +1,7 @@
 "use client";
 
 import { createContext, useContext, useEffect, useState } from "react";
-import { auth, provider } from "@/firebaseConfig"; // safe: only defined in browser
+import { auth, provider } from "@/firebaseConfig";
 import { onAuthStateChanged, signInWithPopup, signOut } from "firebase/auth";
 
 const AuthContext = createContext(null);
@@ -14,33 +14,16 @@ export default function AuthProvider({ children }) {
   const [user, setUser] = useState(undefined); // undefined = loading
 
   useEffect(() => {
-    // Prevent running on the server
-    if (typeof window === "undefined" || !auth) {
-      console.log("AuthProvider loaded on server — skipping Firebase init");
-      return;
-    }
+  const unsub = onAuthStateChanged(auth, (u) => {
+    setUser(u || null);
+    console.log("Logged in user:", u?.uid); // 👈 Add this
+  });
+  return () => unsub();
+}, []);
 
-    const unsub = onAuthStateChanged(auth, (u) => {
-      console.log("Logged in user:", u?.uid);
-      setUser(u || null);
-    });
+  const login = () => signInWithPopup(auth, provider);
+  const logout = () => signOut(auth);
 
-    return () => unsub();
-  }, []);
-
-  const login = async () => {
-    if (!auth) return alert("Auth not ready yet.");
-    return signInWithPopup(auth, provider);
-  };
-
-  const logout = () => {
-    if (!auth) return;
-    return signOut(auth);
-  };
-
-  return (
-    <AuthContext.Provider value={{ user, login, logout }}>
-      {children}
-    </AuthContext.Provider>
-  );
+  const value = { user, login, logout };
+  return <AuthContext.Provider value={value}>{children}</AuthContext.Provider>;
 }
