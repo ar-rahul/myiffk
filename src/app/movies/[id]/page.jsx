@@ -68,7 +68,7 @@ export default function MovieDetailPage() {
   };
 
   // ---------------------------
-  // MAIN EFFECT
+  // MAIN EFFECT - Auth
   // ---------------------------
   useEffect(() => {
     if (!id) return;
